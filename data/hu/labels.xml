@@ -11,7 +11,7 @@
 	<entry key='database.tax_income'>Adóbevételek</entry>
 	<entry key='database.discovering_planets'>Bolygók felderítése</entry>
 	
-	<entry key='database.repair_colony_buildings.details'>A kolóniákon a sérült épületek kevésbé lesznek hatékonyak. Így pl. ha egy élelmiszerellátó központ sérült, az emberek kevesebb élelemhez jutnak, a morál csökken, caskúgy mint az adóbevétel. Az épület javításához csak nyomjuk meg a sérülés % ikont. Ilyenkor ez az ikon átvált javítás %-ra és a javítás megkezdődik. Ha a sérültség állapotjelzője be van kapcsolva, akkor a javítás alatt lévő épület sérülést mutató száma villogni és csökkenni kezd. Ha ez az érték 50% felett van, az épület nem működőképes.</entry>
+	<entry key='database.repair_colony_buildings.details'>A kolóniákon a sérült épületek kevésbé lesznek hatékonyak. Így pl. ha egy élelmiszerellátó központ sérült, az emberek kevesebb élelemhez jutnak, a morál csökken, csakúgy mint az adóbevétel. Az épület javításához csak nyomjuk meg a sérülés % ikont. Ilyenkor ez az ikon átvált javítás %-ra és a javítás megkezdődik. Ha a sérültség állapotjelzője be van kapcsolva, akkor a javítás alatt lévő épület sérülést mutató száma villogni és csökkenni kezd. Ha ez az érték 50% felett van, az épület nem működőképes.</entry>
 	<entry key='database.battleship_production.details'>A nagyobb űrhajók gyártásához orbitális űrállomás is szükséges. Ez a gyár szereli össze az űrben a gyárak által legyártott alkatrészeket. Ehhez először ki kell fejleszteni, majd le kell gyártani az űrgyárat. Ezután be kell lépni a felszerelés (F4) képernyőre, és kiválasztani a bolygót ahová a gyárat telepíteni fogod. Ha kiválasztottad, a képernyő bal alsó részén válaszd ki az űrbázisok ikont, majd az űrgyár kiválasztása után megjelenik a +1 ikon. Erre klikkelve állíthatjuk az űrbázist bolygókörüli pályára.</entry>
 	<entry key='database.deploy_starbase.details'>Ha már le van gyártva egy űrbázis vagy orbitális gyár, lépjünk be a felszerelés (F4) képernyőre, és klikkeljünk egy bolygóra a kis csillagtérképen. Ha már ki van választva a bolygó, klikkeljünk rá az űrbázis ikonra (jobb alsó sarok), majd kiválasztva az űrbázist, nyomjunk a +1 ikonra a telepítéshez. Egy bolygónál maximum három űrbázis lehet, de ezeket lecserélhetjük később modernebbekre, az előbb ismertetett módon.</entry>
 	<entry key='database.moral_boosting.details'>Minden kolónián meghatározó szerepe van a morálnak, ami kihat a népességnövekedésre és az adóbevételekre. Az emberek kolóniáin speciális épületek növelhetik a morált, mint pl. a Bár, a Szórakoztató központ, a Park, a Templom vagy a Stadion. Fedezd Te fel, hogyan tudod a leghatékonyabban növelni a morált. Az adózási kedvet növelheted Rendőrség építésével is. Az emberek attitűdje nem változik villámgyorsan - így néha várni kell, míg tevékenységed megkapja méltó jutalmát. A népesség jó közérzetét növelheted az adók csökkentésével is. 
@@ -29,7 +29,7 @@
 	- Adózási morál
 	Ha az adózási szint magas, valószínű, hogy a lakosság nem lesz túl boldog. Ekkor a morál csökkenni fog, és előbb utóbb az emberek száma is. Kivételes esetekben lehet használni a magas adózási szintet, de hosszú távú stratégiaként elég kockázatos. Az adózási szintet több különböző módon növelhetjük.
 	A kereskedelmi bevételek nem függnek az adózási moráltól, így idegen lakosú bolygókon stabil pénzszerzési forrásként használhatók. Alacsony adózási szintnél idegen bolygókon is megnyugszik a lakosság.</entry>
-	<entry key='database.discovering_planets.details'>Nagyon fontos információt szerezni a bolygókról. Ha egy bolygó neve nem látszik, az azt jelenti, hogy nincs róla információ - lehet üres is, vagy akár idegenek is lakhatják. Az információszerzéshez először egy műholdat kell telepíteni (természtesen ehhez kell lennie egynek a raktárban). Ezek után a csillagtérképen ki kell választani a bolygót, majd telepíteni kell a műholdat a megfelelő ikonnal. Ha a bolygó már lakott, a műholdat könnyen észrevehetik és megsemmisítik. Ilyenkor egy kémműhold telepítésével többet megtudhatunk a bolygó lakóiról. A 2.0-ás kémműhold több információt szállít, így az idegen faj épületeit is láthatjuk már. Ez a műhold a bolygó védelmi rendszeréről is küld információkat.</entry>
+	<entry key='database.discovering_planets.details'>Nagyon fontos információt szerezni a bolygókról. Ha egy bolygó neve nem látszik, az azt jelenti, hogy nincs róla információ - lehet üres is, vagy akár idegenek is lakhatják. Az információszerzéshez először egy műholdat kell telepíteni (természetesen ehhez kell lennie egynek a raktárban). Ezek után a csillagtérképen ki kell választani a bolygót, majd telepíteni kell a műholdat a megfelelő ikonnal. Ha a bolygó már lakott, a műholdat könnyen észrevehetik és megsemmisítik. Ilyenkor egy kémműhold telepítésével többet megtudhatunk a bolygó lakóiról. A 2.0-ás kémműhold több információt szállít, így az idegen faj épületeit is láthatjuk már. Ez a műhold a bolygó védelmi rendszeréről is küld információkat.</entry>
 	
 	<entry key='database.race.freetraders'>Kereskedők Szövetsége</entry>
 	<entry key='database.race.freenations'>Szabad Nemzetek Szöv.</entry>
@@ -43,9 +43,9 @@
 	<entry key='database.race.dargslan'>Dargslanok</entry>
 	
 	<entry key='database.race.freetraders.details'>A Régi Birodalom része voltak egykor, de a Kereskedők elhagyták, hogy létrehozzanak egy új birodalmat. Békés, kereskedő népség és jó kapcsolatokat ápolnak az Ychomokkal.</entry>
-	<entry key='database.race.freenations.details'>Egykor a régi nagy Birodalom része voltak, de már régen kikiáltották függetlenségüket. Az SZNSZ gyorsan gyárt újabbnál újabb flottákat és könnyedén fogla el új területeket. Az SZNSZ vezetői rendkívül arrogánsak a Birodalommal szemben.</entry>
-	<entry key='database.race.pirates.details'>A kalózok több fajból összeállt törvényen kívüli banda. Előszeretettel támadnak meg védtelen kereskedelmi hajókat és gyakran állnak át hozzájuk a morálukat vesztett kolóniák is. Hadi flottákat eddig még szándékosan sosem támadtak meg.</entry>
-	<entry key='database.race.garthog.details'>A Garthog rendkívül sunyi faj. Imádnak mindenféle gépet, és szívesen ellopnak bármilyen új technologiát. A gépek iránti szeretetük akkora, hogy extra szenzorokat építenek be a gyerekeikbe is, amikor megszületnek. Állítólag kiírtották a Nub nevezetű fajt, hogy ellophassák technológiájukat. A Garthog birodalom közel van az emberi birodalmakhoz, és már több mint 10 éve háborúznak. Speciális földi fegyverrel - a radarzavaró járművel - is rendelkeznek.</entry>
+	<entry key='database.race.freenations.details'>Egykor a régi nagy Birodalom része voltak, de már régen kikiáltották függetlenségüket. Az SZNSZ gyorsan gyárt újabbnál újabb flottákat és könnyedén foglal el új területeket. Az SZNSZ vezetői rendkívül arrogánsak a Birodalommal szemben.</entry>
+	<entry key='database.race.pirates.details'>A kalózok több fajból összeállt törvényen kívüli banda. Előszeretettel támadnak meg védtelen kereskedelmi hajókat és gyakran állnak át hozzájuk a moráljukat vesztett kolóniák is. Hadi flottákat eddig még szándékosan sosem támadtak meg.</entry>
+	<entry key='database.race.garthog.details'>A Garthog rendkívül sunyi faj. Imádnak mindenféle gépet, és szívesen ellopnak bármilyen új technológiát. A gépek iránti szeretetük akkora, hogy extra szenzorokat építenek be a gyerekeikbe is, amikor megszületnek. Állítólag kiirtották a Nub nevezetű fajt, hogy ellophassák technológiájukat. A Garthog birodalom közel van az emberi birodalmakhoz, és már több mint 10 éve háborúznak. Speciális földi fegyverrel - a radarzavaró járművel - is rendelkeznek.</entry>
 	<entry key='database.race.ychom.details'>Békés, kereskedő nép. Jó kapcsolataik vannak a Kereskedők Szövetségével. Az Ychomok érdekes fegyverrel védik saját kolóniáikat - egy aknatelepítő gépezettel.</entry>
 	<entry key='database.race.morgath.details'>A Morgathok nagyon barátságtalanok. Sose bíznak meg senkiben. Állítólag hatalmas űrhajóik vannak, és egy speciális földi egységük, a Kamikaze tank. Vigyázz, ha közel kerülsz hozzá!</entry>
 	<entry key='database.race.dribs.details'>Dribek egy büszke faj. A technikai fejlettségük megmutatkozik a mechanikai és építkezési tudományukban.</entry>
@@ -145,7 +145,7 @@
 	<entry key="achievement.pirate_bay">Kalóz kikötő</entry>
 	<entry key="achievement.pirate_bay.desc">Egy bolygód átállt a kalózokhoz</entry>
 	<entry key="achievement.dargslayer">Dargslayer</entry>
-	<entry key="achievement.dargslayer.desc">Kiírtottad a Dargslanokat a galaxisból</entry>
+	<entry key="achievement.dargslayer.desc">Kiirtottad a Dargslanokat a galaxisból</entry>
 	<entry key="achievement.energizer">Energizáló</entry>
 	<entry key="achievement.energizer.desc">Az összes energiatermelésed meghaladta a 10.000.000 kW-ot</entry>
 	<entry key="achievement.death_star">Death Star</entry>
@@ -181,7 +181,7 @@
 	<entry key="achievement.living_space">Lakótér</entry>
 	<entry key="achievement.living_space.desc">Felfedezted az első lakatlan bolygót</entry>
 	<entry key="achievement.food">Gondos étkezés</entry>
-	<entry key="achievement.food.desc">Az össz élelmiszer termelés meghaladja a 1.000.000 egységet</entry>
+	<entry key="achievement.food.desc">Az összes élelmiszer termelés meghaladja a 1.000.000 egységet</entry>
 	<entry key="achievement.decade">Tíz éve a szolgálatban</entry>
 	<entry key="achievement.decade.desc">Tíz évet játszottál a játékidő szerint (többszöri végigjátszással is elérhető)</entry>
 	<entry key="achievement.oldest_man">A legöregebb ember</entry>
@@ -238,7 +238,7 @@
 	<entry key='statistics.total_worker'>Összes munkásigény</entry>
 	<entry key='statistics.total_police'>Összes rendőrség</entry>
 	<entry key='statistics.total_fleet'>Összes flotta</entry>
-	<entry key='statistics.total_own_firepower'>Összes sajét tűzerő</entry>
+	<entry key='statistics.total_own_firepower'>Összes saját tűzerő</entry>
 	<entry key='statistics.total_enemy_firepower'>Összes ellenség tűzerő</entry>
 	<entry key='statistics.ships_destroyed'>Megsemmisített hajók</entry>
 	<entry key='statistics.ships_destroyed_value'>Megsemmisített hajók értéke</entry>
@@ -465,7 +465,7 @@
 	<entry key='players.garthog.short'>Garthog</entry>
 	<entry key='players.ychom.short'>Ychom</entry>
 	<entry key='players.morgath.short'>Morgath</entry>
-	<entry key='players.dribs.short'>Dribs</entry>
+	<entry key='players.dribs.short'>Dribek</entry>
 	<entry key='players.ecalep.short'>Ecalep</entry>
 	<entry key='players.sullep.short'>Sullep</entry>
 	<entry key='players.dargslan.short'>Dargslan</entry>
@@ -527,7 +527,7 @@
 	<entry key='race.sullep'>Sullep</entry>
 	<entry key='race.ecalep'>Ecalep</entry>
 	<entry key='race.ychom'>Ychom</entry>
-	<entry key='race.dribs'>Dribs</entry>
+	<entry key='race.dribs'>Dribek</entry>
 	<entry key='race.dargslan'>Dargslan</entry>
 	
 	<entry key='autobuild.OFF'>Kikapcsolva</entry>
@@ -666,16 +666,16 @@
 	
 	<entry key='tech.shield1.name'>Védőpajzs v1</entry>
 	<entry key='tech.shield1.longname'>Védőpajzs v1.0</entry>
-	<entry key='tech.shield1.description'>Ez a viszonylag kis hatásfokú védőpajzs a hajók védelmét mintegy 25%-al növeli.</entry>
+	<entry key='tech.shield1.description'>Ez a viszonylag kis hatásfokú védőpajzs a hajók védelmét mintegy 25%-kal növeli.</entry>
 	<entry key='tech.shield2.name'>Védőpajzs v2</entry>
 	<entry key='tech.shield2.longname'>Védőpajzs v2.0</entry>
-	<entry key='tech.shield2.description'>Nagyobb energiafogyasztással sikerült a pajzs védőerejét még 10%-al növelni. A megnövekedett energiaigény miatti fúziós generátor kis hajókra nem telepíthető.</entry>
+	<entry key='tech.shield2.description'>Nagyobb energiafogyasztással sikerült a pajzs védőerejét még 10%-kal növelni. A megnövekedett energiaigény miatti fúziós generátor kis hajókra nem telepíthető.</entry>
 	<entry key='tech.shield3.name'>Védőpajzs v3</entry>
 	<entry key='tech.shield3.longname'>Védőpajzs v3.0</entry>
-	<entry key='tech.shield3.description'>A hajók erejét több mint 45%-al képes növelni ez a pajzsegység. Csak nagyméretű és/vagy speciálisan erre átalakított hajókra telepíthető.</entry>
+	<entry key='tech.shield3.description'>A hajók erejét több mint 45%-kal képes növelni ez a pajzsegység. Csak nagyméretű és/vagy speciálisan erre átalakított hajókra telepíthető.</entry>
 	<entry key='tech.shield4.name'>Védőpajzs v4</entry>
 	<entry key='tech.shield4.longname'>Védőpajzs v4.0</entry>
-	<entry key='tech.shield4.description'>A jelenleg ismert legerősebb pajzstípus, mely a hajók erejét 60%-al növeli.</entry>
+	<entry key='tech.shield4.description'>A jelenleg ismert legerősebb pajzstípus, mely a hajók erejét 60%-kal növeli.</entry>
 	
 	<entry key='tech.laser1.name'>Lézer v1</entry>
 	<entry key='tech.laser1.longname'>Lézer v1.0</entry>
@@ -708,7 +708,7 @@
 	<entry key='tech.bomb1.description'>A földi egységek orbitális bombázása az egyetlen ismert módszer az ágyúk hatástalanítására - viszonylag kis veszteségekkel.</entry>
 	<entry key='tech.bomb2.name'>Bomba 2</entry>
 	<entry key='tech.bomb2.longname'>Bomba v2.0</entry>
-	<entry key='tech.bomb2.description'>Az egyszerű bomba nagyobb robbanófejjel rendelkező változa. Mivel nagyobb területen hat, az ágyúk körüli földi épületek is sérülhetnek.</entry>
+	<entry key='tech.bomb2.description'>Az egyszerű bomba nagyobb robbanófejjel rendelkező változata. Mivel nagyobb területen hat, az ágyúk körüli földi épületek is sérülhetnek.</entry>
 	<entry key='tech.virusbomb.name'>Vírusbomba</entry>
 	<entry key='tech.virusbomb.longname'>Vírusbomba</entry>
 	<entry key='tech.virusbomb.description'>Tudomásunk szerint csak a Birodalom rendelkezik ezzel a fegyverrel, melynek kezdeti változata már az emberiség hőskorában is ismert volt, csak kisebb pusztítóerővel.</entry>
@@ -719,7 +719,7 @@
 	<entry key='tech.rocket2.longname'>Rakéta v2.0</entry>
 	<entry key='tech.rocket2.description'>Gyorsabb és erősebb változata a korábbi rakétatípusnak. Intelligensebb célkövető rendszere miatt a találati valószínűség is lényegesen nagyobb.</entry>
 	<entry key='tech.multiheadedrocket.name'>Többfejes rakéta</entry>
-	<entry key='tech.multiheadedrocket.longname'>Multirobbanófejes rakéta</entry>
+	<entry key='tech.multiheadedrocket.longname'>Több robbanófejes rakéta</entry>
 	<entry key='tech.multiheadedrocket.description'>Elődeivel ellentétben nem a robbanófej méretével értek el nagyobb pusztítóerőt a fejlesztők, hanem a robbanófejek számát növelték meg. Vadászok ellen javasolt.</entry>
 
 	<entry key='tech.lighttank.name'>Könnyű tank</entry>
@@ -1025,7 +1025,7 @@
 	<entry key='test.q1.a2'>Időnként.</entry>
 	<entry key='test.q1.a3'>Soha.</entry>
 	<entry key='test.q2'>Ha gyorsan kell határoznom,</entry>
-	<entry key='test.q2.a1'>higgadtan, ésszerűen és tárgyilagosan döntök.</entry>
+	<entry key='test.q2.a1'>higgadtan, észszerűen és tárgyilagosan döntök.</entry>
 	<entry key='test.q2.a2'>gyorsan elhatározom, mit kell tennem.</entry>
 	<entry key='test.q2.a3'>nyugtalan és ideges leszek.</entry>
 	<entry key='test.q3'>Ha kisebb bajaim vannak is, azért még optimista maradok.</entry>
@@ -1048,7 +1048,7 @@
 	<entry key='test.q7.a1'>nincs bűntudatom.</entry>
 	<entry key='test.q7.a2'>nem tudom.</entry>
 	<entry key='test.q7.a3'>van bűntudatom.</entry>
-	<entry key='test.q8'>Mivel nem mindig lehet a dolgokat ésszerűen elintézni, szükség lehet erőszak alkalmazására is.</entry>
+	<entry key='test.q8'>Mivel nem mindig lehet a dolgokat észszerűen elintézni, szükség lehet erőszak alkalmazására is.</entry>
 	<entry key='test.q8.a1'>Egyetértek, gyakran van rá szükség.</entry>
 	<entry key='test.q8.a2'>Csak kivételes esetben.</entry>
 	<entry key='test.q8.a3'>Soha.</entry>
@@ -1080,16 +1080,16 @@
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.22'>Gondolkodunk a dologról.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.23'>Az Adminisztratív Tanács átgondolja a javaslatát, Admirális.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.24'>A kérdést csatolták a következő tanácsi ülésen megvitatandó problémák dossziéjához.</entry>
-	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.NEUTRAL.NO.25'>Úgy tűnik nincs közös bázis az ésszerű vitához a Birodalom és a Szövetség között.</entry>
+	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.NEUTRAL.NO.25'>Úgy tűnik nincs közös bázis az észszerű vitához a Birodalom és a Szövetség között.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.NEUTRAL.NO.26'>A Szövetségnek nem érdeke pillanatnyilag a túl szoros kapcsolatok ápolása a Birodalommal.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.NEUTRAL.NO.27'>A saját utunkat kell járnunk.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.28'>Mindig is filozófiánk központi gondolata volt az elesettek gyámolítása. Ezért hajlandók vagyunk a diplomáciai kapcsolatok javítására.</entry>
-	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.29'>A Szabad Nemzetek Szövetsége örömmel veszi, ha megoszthatja kultúrális és politikai fejlődésének eredményeit a Birodalommal.</entry>
+	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.29'>A Szabad Nemzetek Szövetsége örömmel veszi, ha megoszthatja kulturális és politikai fejlődésének eredményeit a Birodalommal.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.30'>Az Adminisztratív Tanács úgy döntött, hogy jóindulattal kezeli a kérést.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.31'>A Szabad Nemzetek Szövetségének fontosabb dolgai is vannak, mint ilyen másodrendű kérdésekkel foglalkozni.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.32'>Iktattuk a kérést a megfelelő helyen.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.33'>Az Adminisztratív Tanács meghallgatta a kérését, Admirális, és foglalkozni fog vele a megfelelő időben.</entry>
-	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.34'>Ilyen gyenge a Birodalom? Jól tettük, hogy annakidején elszakadtunk tőletek...</entry>
+	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.34'>Ilyen gyenge a Birodalom? Jól tettük, hogy annak idején elszakadtunk tőletek...</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.35'>Ha ez a Birodalom &quot;erejének&quot; látványos demonstrációja akart lenni, akkor köszönjük, de nem kérünk belőle.</entry>
 	<entry key='diplomacy.FreeNations.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.36'>Nem fogjuk ezen a módon sem támogatni a fasiszta kormányt, amely a Birodalmat vezeti!</entry>
 	<entry key='diplomacy.FreeNations.MONEY.37'>A Birodalom elkülönített %s kreditet az Idegen Fajok Segélyezési Alapjából a Szövetség számára.</entry>
@@ -1139,13 +1139,13 @@
 	<entry key='diplomacy.FreeNations.PEACE.81'>Elnökünk úgy véli az elmúlt néhány hét &quot;leckéi&quot; a Birodalmat is meggyőzték arról, hogy a béke jobb mindkét félnek. Elfogadna egy ilyen javaslatot, Admirális?</entry>
 	<entry key='diplomacy.FreeNations.MONEY.82'>Katonai törekvéseink további anyagi áldozatokat igényelnek. Ha a Birodalom kész lenne %s creditet áldozni erre a célra, nem felejtenénk el, ha esetleg később megváltozna a helyzet...</entry>
 	<entry key='diplomacy.FreeNations.MONEY.83'>Lekötelezve éreznénk magunkat, ha a Birodalom támogatni tudná a Szövetséget %s credittel, melyet kizárólag újjáépítési célokra használnánk fel.</entry>
-	<entry key='diplomacy.FreeNations.MONEY.84'>Admirális, ha sikerülne %s creditet szerznie a Szövetségnek, mindörökre lekötelezettjei lennénk.</entry>
+	<entry key='diplomacy.FreeNations.MONEY.84'>Admirális, ha sikerülne %s creditet szereznie a Szövetségnek, mindörökre lekötelezettjei lennénk.</entry>
 	<entry key='diplomacy.FreeNations.WAR.85'>A Szövetség nem tűrhet meg egy ilyen totalitárius rendszert a határai közelében. Halál az elnyomókra!</entry>
 	<entry key='diplomacy.FreeNations.WAR.86'>A szabadságért érdemes harcolni. És ez az, amit a Birodalom el szeretne venni tőlünk!</entry>
 	<entry key='diplomacy.FreeNations.WAR.87'>Szabó Elnök Urat elszomorították a Birodalom felelőtlen és veszélyes akcióiról érkező hírek. Nem maradt más választásunk, mint a fegyveres &quot;gyógyítókúra&quot;.</entry>
 	<entry key='diplomacy.FreeNations.RESIGN.88'>A Birodalom kudarcot vallott: a népek szabadságvágya mindig erősebb az elnyomó fegyvereinél. De az eszméink tisztasága nem engedi a népirtást, így felajánljuk a megadás lehetőségét.</entry>
 	<entry key='diplomacy.FreeNations.RESIGN.89'>A Szövetség két utat lát a Birodalom előtt: fegyverletétel vagy totális pusztulás. Mi az előbbit javasolnánk, Admirális...</entry>
-	<entry key='diplomacy.FreeNations.RESIGN.90'>Az Adminisztratív Tanács úgy érzi, hogy a megadás lehetőségének felvillantása a legyőzött ellenfél előtt jó példája a magasabbrendű kultúrális szintnek.</entry>
+	<entry key='diplomacy.FreeNations.RESIGN.90'>Az Adminisztratív Tanács úgy érzi, hogy a megadás lehetőségének felvillantása a legyőzött ellenfél előtt jó példája a magasabbrendű kulturális szintnek.</entry>
 	<entry key='diplomacy.Morgath.DIPLOMATIC_RELATIONS.AGGRESSIVE.1'>Úgy vesszük észre, szükségetek van erős barátokra. Szövetkezzetek velünk és megvédünk mindenkitől!</entry>
 	<entry key='diplomacy.Morgath.DIPLOMATIC_RELATIONS.AGGRESSIVE.2'>Baráti jobbot nyújtunk a Morgath Konföderációnak. Úgy hisszük, erre a segítségre szükség lehet, ha le akarjuk győzni közös ellenségeinket.</entry>
 	<entry key='diplomacy.Morgath.DIPLOMATIC_RELATIONS.AGGRESSIVE.3'>Az emberiség ellenségei a Morgathok ellenségei is. A bölcs egyesíti erőit, a bolond visszalöki a segítő kezet. A választás a tiétek...</entry>
@@ -1180,7 +1180,7 @@
 	<entry key='diplomacy.Morgath.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.32'>A Morgath Konföderáció nem vesztegeti idejét olyanokra, akik nem érdemesek rá!</entry>
 	<entry key='diplomacy.Morgath.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.33'>Nem fogjuk meggyengíteni magunkat azzal, hogy a ti oldalatokon harcolunk!</entry>
 	<entry key='diplomacy.Morgath.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.34'>Nem foglalkozunk alacsonyabbrendű fajok helyi perpatvaraival, Admirális!</entry>
-	<entry key='diplomacy.Morgath.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.35'>A Konföderációnak elege van a szánalmas nyavajgásokból. Ti, emberek arra sem vagytok érdemesek, hogy a szolgáink legyetek!</entry>
+	<entry key='diplomacy.Morgath.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.35'>A Konföderációnak elege van a szánalmas nyavalygásokból. Ti, emberek arra sem vagytok érdemesek, hogy a szolgáink legyetek!</entry>
 	<entry key='diplomacy.Morgath.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.36'>Úgy? Hát idáig süllyedt a Birodalom? Úgy látszik az erőtökről és harcias természetetekről szóló hírek nagyon távol vannak a valóságtól.</entry>
 	<entry key='diplomacy.Morgath.MONEY.37'>Úgy döntöttünk felajánlunk %s creditet a Konföderáció céljaira.</entry>
 	<entry key='diplomacy.Morgath.MONEY.YES.38'>Nagylelkűségedet nem felejtjük el, Földi!</entry>
@@ -1195,7 +1195,7 @@
 	<entry key='diplomacy.Morgath.TRADE.YES.47'>Rendben. Elfogadjuk az ajánlatot.</entry>
 	<entry key='diplomacy.Morgath.TRADE.NO.48'>Meg kell fontolnunk a javaslatot. A Quorom napirendre tűzi a következő ülésszakán.</entry>
 	<entry key='diplomacy.Morgath.TRADE.NO.49'>A Konföderációnak jelen pillanatban nem érdeke, hogy földi kereskedőket engedjen be területére.</entry>
-	<entry key='diplomacy.Morgath.TRADE.NO.50'>Nem bízunk benned. Ez csak egy újabb kísérlet, hogy kémeket és szabotőröket jutassatok be a Konföderációba.</entry>
+	<entry key='diplomacy.Morgath.TRADE.NO.50'>Nem bízunk benned. Ez csak egy újabb kísérlet, hogy kémeket és szabotőröket juttassatok be a Konföderációba.</entry>
 	<entry key='diplomacy.Morgath.ALLY.51'>A stratégiai vezetés elérkezettnek látja az időt, hogy végső csapást mérjünk a %s bolygóira.</entry>
 	<entry key='diplomacy.Morgath.ALLY.YES.52'>Mintha csak a mi bölcseinket hallanám, Admirális. Elérkezett az idő, hogy összefogjunk a %s ellen és szétszórjuk őket!</entry>
 	<entry key='diplomacy.Morgath.ALLY.YES.53'>Elérkezett az idő! Már régóta szálka szemünkben a gonosz %s!</entry>
@@ -1217,7 +1217,7 @@
 	<entry key='diplomacy.Morgath.SURRENDER.NO.69'>Nem nyugszunk, amíg egyetlen egy is él a fajtádból, földi! Hamarosan Te fogsz könyörögni nekünk!</entry>
 	<entry key='diplomacy.Morgath.SURRENDER.NO.70'>Erősebbek vagyunk, mint gondolnád, földi ember. Ez az inzultus volt az utolsó ilyen sértés, amit elkövettél!</entry>
 	<entry key='diplomacy.Morgath.SURRENDER.NO.71'>Erőnk töretlen. Harcolunk, amíg az utolsó Morgath harcos fegyvert tud fogni a kezébe!</entry>
-	<entry key='diplomacy.Morgath.terminate.72'>Köszönet az audenciáért, de sürgős ügyeim elszólítanak.</entry>
+	<entry key='diplomacy.Morgath.terminate.72'>Köszönet az audienciáért, de sürgős ügyeim elszólítanak.</entry>
 	<entry key='diplomacy.Morgath.SURRENDER.73'>A Birodalom erős, túl erős számunkra, Admirális. Letesszük a fegyvert.</entry>
 	<entry key='diplomacy.Morgath.SURRENDER.74'>A Morgath Konföderáció megadja magát. Még mindig inkább az embereknek, mint többi ellenségünknek.</entry>
 	<entry key='diplomacy.Morgath.SURRENDER.75'>A Konföderáció nem látja értelmét a további vérontásnak. Megadjuk magunkat!</entry>
@@ -1242,7 +1242,7 @@
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.4'>A Birodalomnak érdeke a Tanáccsal a kapcsolatok kölcsönös javítása.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.5'>A Tanács rendkívül sokat nyerne a kapcsolatok javításával az ezzel együtt járó kereskedelmi többletbevételről nem is beszélve.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.6'>A földiek a kapcsolatok javulását szeretnék az emberek és a nagyrabecsült Ychomok között. A békés kereskedelem a mi érdekünk is, és úgy tudjuk az Ychomok hasonlóképpen gondolkodnak.</entry>
-	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.HUMBLE.7'>A Birodalom az Ychomok lekötelezettjének érezné magát, ha a Tanács elfogádná baráti jobbunkat.</entry>
+	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.HUMBLE.7'>A Birodalom az Ychomok lekötelezettjének érezné magát, ha a Tanács elfogadná baráti jobbunkat.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.HUMBLE.8'>Az Ychom nép jólétének és gazdagságának híre a Birodalom fülébe is eljutott. Épp ezért felajánljuk barátságunk, mely mindkét népnek csak jót hozhat.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.HUMBLE.9'>Némi erkölcsi támogatást szeretnék kérni a Biro- dalom számára. Az Ychom nép is nagymértékben gazda- godna, ha legyőzzük ellenfeleinket!</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.10'>Kétségtelenül lehet némi haszna az együttműködésnek. Szádból az ősi bölcsesség szólt.</entry>
@@ -1250,7 +1250,7 @@
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.12'>Az Ychom nép hallja szavaidat. A Tanács úgy döntött, hogy a javuló diplomáciai kapcsolatok mindkét nép iparát fellendíthetik.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.13'>Kérésedet az Ychom szakszervezet &quot;J&quot; bizottságának 2. albizottsága napirendre tűzi.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.14'>Az Ann-Hiva konzorcium gazdasági tanácsadói részletes költség-haszon elemzést fognak adni a javaslatodról.</entry>
-	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.15'>Közvéleménykutatásokat folytatunk a kérés várható elbírálásával kapcsolatban.</entry>
+	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.15'>Közvélemény-kutatásokat folytatunk a kérés várható elbírálásával kapcsolatban.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.16'>Nincs profit a Birodalommal való szoros együttműködésből! A Tanács távol tartja magát az ilyen sokba kerülő &quot;ügyektől&quot;.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.17'>A hozzáállásod nem igazán üzleti jellegű. A tőkénk bizony másfelé fog menni...</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.18'>Igen kis esélyt látunk a kérés teljesítésére! Előbb tornászd fel kissé a bevételeidet, mert nem szeretnénk, ha állandóan pénzzel kellene tömnünk a Birodalmat!</entry>
@@ -1259,16 +1259,16 @@
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.YES.21'>A Birodalom sokat segíthet nekünk. Elfogadjuk az ajánlatodat.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.22'>Emlékszem az Összesített Viselkedéstan 7. paragrafusának 3. bekezdésére, ami jelenleg megtiltja az ilyen tárgyalásokat.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.23'>Sajnálom, de a Fő-felügyelőtanács alelnökének titkára személyes memorandumot intézett hozzám, hogy kérésed a jelen pillanatban nem bírálható el.</entry>
-	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.24'>Mindig van esély, még a legbolondabb számára is, hogy profitot csináljon. Értesíteni fogunk, ha a dötés megszületett!</entry>
+	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.24'>Mindig van esély, még a legbolondabb számára is, hogy profitot csináljon. Értesíteni fogunk, ha a döntés megszületett!</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.NO.25'>A Birodalom jelenleg J-3-as osztályú kereskedelmi egység. Ezt azt jelenti, hogy a kötvény- és értékpapír-törvény nem engedi a szabad kereskedelmet!</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.NO.26'>A Szabad Kereskedők Szövetségével kötött kétoldalú egyezményünk kerülne veszélybe, ha elfogadnánk ezt az ajánlatot.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.NO.27'>Nem látunk profitot a veletek való viszonyban. Milliókat fektettünk már be abba a területbe, és semmi kedvünk további hasonló befektetéseket tenni.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.28'>Sok profit nyerhető a könnyen manipulálhatókból! Elfogadjuk az ajánlatot, Admirális!</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.29'>Ahhh...Szinte érzem a pénz szagát! A Tanács együttműködik Önnel, Admirális.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.30'>Mi is nyerhetünk az üzleten... Az ajánlatot vegye elfogadottnak, Admirális.</entry>
-	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.31'>Gondolkodóba ejtett minket, Admirális. Át kell gondolnunk üzleti ügyeinket, melyek a Birodalomhoz kötnek bennönket!</entry>
+	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.31'>Gondolkodóba ejtett minket, Admirális. Át kell gondolnunk üzleti ügyeinket, melyek a Birodalomhoz kötnek bennünket!</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.32'>Az instabilitás az üzlet halála. A Tanács felülvizsgálja a Birodalom pénzügyi fejlesztésének lehetőségeit.</entry>
-	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.33'>Az Ann-Hiva konzorcium átvizsgálja a földiek birodalmának átstruktúrálására tett javaslatait. Természetesen azonnal értesítjük Önt, ha valami érdemleges eredményre jutottak...</entry>
+	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.33'>Az Ann-Hiva konzorcium átvizsgálja a földiek birodalmának átstrukturálására tett javaslatait. Természetesen azonnal értesítjük Önt, ha valami érdemleges eredményre jutottak...</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.34'>Némi egyet-nem-értés van a Tanács és az Ann-Hiva konzorcium között a Birodalommal fennálló viszony kérdésében. Azonnal értesítjük, ha a dolog megoldódott.</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.35'>A Birodalmat 4E osztályú katonai egységgé degradáltuk. Ez természetesen a hitelbesorolást jelentősen rontotta...</entry>
 	<entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.36'>A Tanács nem fecsérli idejét és pénzét szénből gyémántot gyártó csalókra. Elegünk van a Birodalom aljas trükkjeiből!</entry>
@@ -1277,7 +1277,7 @@
 	<entry key='diplomacy.Ychom.MONEY.YES.39'>Az Ychom Gazdasági Kamara háláját fejezi ki a befektetett összeg miatt. Az a pénz komoly gazdasági fellendülést okozhat egy ipari szektorban!</entry>
 	<entry key='diplomacy.Ychom.MONEY.YES.40'>A Tanács örül, hogy a Birodalmat a barátai közé sorolhatja.</entry>
 	<entry key='diplomacy.Ychom.MONEY.NO.41'>Jelen pillanatban bizonyos nem tisztázott tőkepiaci viszonyok miatt a pénzt nem fogadhatjuk el.</entry>
-	<entry key='diplomacy.Ychom.MONEY.NO.42'>Az Ann-Hiva konzorcium belső szabályzata csak korlátozott mértékben engedi a ...eeeee... nem bírom elolvasni ezt a macskakaparást! Szóval a ... osztályba sorolt kereskekedelmi egységek számára.</entry>
+	<entry key='diplomacy.Ychom.MONEY.NO.42'>Az Ann-Hiva konzorcium belső szabályzata csak korlátozott mértékben engedi a ...eeeee... nem bírom elolvasni ezt a macskakaparást! Szóval a ... osztályba sorolt kereskedelmi egységek számára.</entry>
 	<entry key='diplomacy.Ychom.MONEY.NO.43'>Az Ychom opciós piac már egyszer összeomlott a pénzügyi &quot;befektetéseitektől&quot;. Köszönjük, még egyszer nem kérünk belőle!</entry>
 	<entry key='diplomacy.Ychom.TRADE.44'>A Birodalom szeretné a kereskedelmet korlátozó akadályokat felszámolni az Ychomok és az emberek között.</entry>
 	<entry key='diplomacy.Ychom.TRADE.YES.45'>Legyen! Tűnjön el az utolsó akadály is a szabad kereskedelem útjából!</entry>
@@ -1331,10 +1331,10 @@
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.AGGRESSIVE.3'>A Birodalom nem akar erőszakhoz folyamodni, mert úgy érezzük a Drib Protektorátus érdemes a szövetségesi rangra.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.4'>A javuló kapcsolatok a Birodalom és a Protektorátus között mindkét faj javát szolgálnák.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.5'>Felajánljuk barátságunkat és megbecsülésünket a Drib népnek.</entry>
-	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.6'>A Birodalom mindenkivel a béke lehetőségét keresi. A Drip Protektorátus nyilvánvalóan érdemes lenne egy szövetségre.</entry>
+	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.6'>A Birodalom mindenkivel a béke lehetőségét keresi. A Drib Protektorátus nyilvánvalóan érdemes lenne egy szövetségre.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.HUMBLE.7'>Hallottunk a hatalmas Drib Protektorátusról. Felajánlanánk örök barátságunkat és lojalitásunkat.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.HUMBLE.8'>A Birodalom felajánlja barátságát a hősi Drib népnek.</entry>
-	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.HUMBLE.9'>A Birodalom megtiszteltetésnerk venné, ha a Drib Protektorátus a barátai közé sorolná.</entry>
+	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.HUMBLE.9'>A Birodalom megtiszteltetésnek venné, ha a Drib Protektorátus a barátai közé sorolná.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.10'>A Drib Protektorátus sok értéket talált a szavaiban, Admirális.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.11'>Érezzük az erő önbizalmát a szavak mögött. Erőét, mely majdnem akkora, mint a miénk. Ezt érdemes lenne közelebbről megvizsgálnunk.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.12'>A Birodalom méltó szövetséges lenne. A Chal&#39;Ahri elismeréssel vette tudomásul a földiek erejét.</entry>
@@ -1345,7 +1345,7 @@
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.17'>A Protektorátus megtette kötelességét a Drib nép felé évszázadokon keresztül. A Chal&#39;Ahrinak nincs szüksége a Birodalomra.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.18'>Hadd döntse el a Protektorátus, hogy mely úton vezeti az irányítása alá tartozókat.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.YES.19'>Szavaid barátilag hatnak és nem látunk hátsó szándékot mögöttük.</entry>
-	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.YES.20'>Becsületes kiállásod meggyőzőtt bennünket. Ígérjük mindent elkövetünk a viszony javulásáért!</entry>
+	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.YES.20'>Becsületes kiállásod meggyőzött bennünket. Ígérjük, mindent elkövetünk a viszony javulásáért!</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.YES.21'>A Chal&#39;Ahri egyetért az ajánlattal.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.22'>Megfontoljuk az ajánlatot.</entry>
 	<entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.23'>A Chal&#39;Ahri először meg kell fontolja az ajánlatot.</entry>
@@ -1402,11 +1402,11 @@
 	<entry key='diplomacy.Dribs.SURRENDER.74'>A Chal&#39;Ahri nem hagyhatja meghalni harcosainkat, így leteszi a fegyvert.</entry>
 	<entry key='diplomacy.Dribs.SURRENDER.75'>A Birodalom bizonyította rátermettségét az eddigi véres csatákban. Túlontúl is. Sajnos, túl sok vért veszítettünk - meg kell adjuk magunkat.</entry>
 	<entry key='diplomacy.Dribs.ALLIANCE.76'>A Drib Protektorátus úgy érzi: a Birodalom bebizonyította, hogy érdemes vele szövetséget kötnünk. Mi az Ön véleménye, Admirális?</entry>
-	<entry key='diplomacy.Dribs.ALLIANCE.77'>A Chal&#39;Ahri érdeklődéssel követte az Ön nem mindennapi katonai pályafutását, Admirális. A nép, melynek ilyan katonái vannak, megérdemli a Drib népet az oldalán!</entry>
+	<entry key='diplomacy.Dribs.ALLIANCE.77'>A Chal&#39;Ahri érdeklődéssel követte az Ön nem mindennapi katonai pályafutását, Admirális. A nép, melynek ilyen katonái vannak, megérdemli a Drib népet az oldalán!</entry>
 	<entry key='diplomacy.Dribs.ALLIANCE.78'>A Birodalmi és a Drib flotta együtt legyőzhetetlen lenne. Mi a véleménye egy jövőbeli szövetségről, Admirális?</entry>
 	<entry key='diplomacy.Dribs.PEACE.79'>Ez a háború értelmetlen. Még a legrövidlátóbb fajnak is be kell látnia, hogy nem ez a követendő út. Mi békét ajánlunk...</entry>
 	<entry key='diplomacy.Dribs.PEACE.80'>A Chal&#39;Ahri békét ajánl. Nincs dicsőség az ilyen háborúban.</entry>
-	<entry key='diplomacy.Dribs.PEACE.81'>A háború alatt elkövetett borzalmas tettek nem válnak egyik fél dicsőségéra sem. Felajánljuk a fegyvernyugvás lehetőségét népeink között!</entry>
+	<entry key='diplomacy.Dribs.PEACE.81'>A háború alatt elkövetett borzalmas tettek nem válnak egyik fél dicsőségére sem. Felajánljuk a fegyvernyugvás lehetőségét népeink között!</entry>
 	<entry key='diplomacy.Dribs.MONEY.82'>Háborús erőfeszítéseink erősen megcsappantották az államkincstár tartalékait. Ezúttal kérjük a földi birodalmat, hogy %s credittel segítsen befoltozni a költségvetés zsákján tátongó lyukat.</entry>
 	<entry key='diplomacy.Dribs.MONEY.83'>Ha ezúttal is számíthatunk a Birodalom %s credites támogatására, templomainkban hálaadó énekeket zengenek majd az emberek nagylelkűségéről.</entry>
 	<entry key='diplomacy.Dribs.MONEY.84'>Ha képes lenne a Birodalom összeszedni %s creditet, amire szükségünk van, a hálánk tovább tartana, mint a csillagok élete.</entry>
@@ -1423,7 +1423,7 @@
 	<entry key='diplomacy.Sullep.DIPLOMATIC_RELATIONS.NEUTRAL.5'>Felajánljuk baráti jobbunkat a Sullep népnek.</entry>
 	<entry key='diplomacy.Sullep.DIPLOMATIC_RELATIONS.NEUTRAL.6'>Barátságot, biztonságos és kiszámítható kapcsolatokat szeretnénk a Sullepekkel.</entry>
 	<entry key='diplomacy.Sullep.DIPLOMATIC_RELATIONS.HUMBLE.7'>Nemes tetteitek híre elérte a Birodalmat is. Szeretnénk felajánlani baráti jobbunkat a hatalmas Sullepeknek.</entry>
-	<entry key='diplomacy.Sullep.DIPLOMATIC_RELATIONS.HUMBLE.8'>Nagyrabecsült Sullepek! Kérjük fogadjátok el örökkétartó barátságunkat és jóindulatunkat.</entry>
+	<entry key='diplomacy.Sullep.DIPLOMATIC_RELATIONS.HUMBLE.8'>Nagyrabecsült Sullepek! Kérjük fogadjátok el örökké tartó barátságunkat és jóindulatunkat.</entry>
 	<entry key='diplomacy.Sullep.DIPLOMATIC_RELATIONS.HUMBLE.9'>A Birodalom szeretne némi jóindulatot kelteni a Sullep nép vezetőiben és felajánlja hűségét és barátságát.</entry>
 	<entry key='diplomacy.Sullep.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.10'>Admirális! Tetteid híre nemcsak a Birodalom határain belül ismert! Nem látjuk akadályát a kapcsolatok szorosabbra fűzésének.</entry>
 	<entry key='diplomacy.Sullep.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.11'>A Birodalom ereje ismert a Klánok Tanácsában. Büszkék vagyunk, hogy a testvéri emberek mellé állhatunk!</entry>
@@ -1463,7 +1463,7 @@
 	<entry key='diplomacy.Sullep.TRADE.YES.45'>A Klánok Belső Köre megfontolta és elfogadta a javaslatodat.</entry>
 	<entry key='diplomacy.Sullep.TRADE.YES.46'>Elfogadjuk az ajánlatot!</entry>
 	<entry key='diplomacy.Sullep.TRADE.YES.47'>A kereskedelem csak erősíti a gazdaságot és így a hadsereget is. Elfogadjuk a javaslatot!</entry>
-	<entry key='diplomacy.Sullep.TRADE.NO.48'>A növekvő kerskedelem nem szolgálná pillanatnyilag a Sullep nép érdekeit.</entry>
+	<entry key='diplomacy.Sullep.TRADE.NO.48'>A növekvő kereskedelem nem szolgálná pillanatnyilag a Sullep nép érdekeit.</entry>
 	<entry key='diplomacy.Sullep.TRADE.NO.49'>A Sullep Klánoknak nincs szüksége az emberek szánalmas játékszereire!</entry>
 	<entry key='diplomacy.Sullep.TRADE.NO.50'>A Klánok a legmerevebben elzárkóznak a kérés teljesítése elől!</entry>
 	<entry key='diplomacy.Sullep.ALLY.51'>A háború szele fúj. Elérkezett az idő, hogy egyesítsük erőinket a gonosz %s ellen.</entry>
@@ -1486,7 +1486,7 @@
 	<entry key='diplomacy.Sullep.SURRENDER.YES.68'>A Klánok Belső Körének meg kell őriznie a Klánokat! Ha az egyetlen esély a megadás, úgy ezt az utat követjük...</entry>
 	<entry key='diplomacy.Sullep.SURRENDER.NO.69'>Inkább a halál, mint a szégyenben élés!</entry>
 	<entry key='diplomacy.Sullep.SURRENDER.NO.70'>Nem hajbókolunk senki előtt!</entry>
-	<entry key='diplomacy.Sullep.SURRENDER.NO.71'>Csak az előörseinket láttad még, Admirális! A flotta fő erői már gyülekeznek, hogy végső csapást mérjenek a földi kolóniákra!</entry>
+	<entry key='diplomacy.Sullep.SURRENDER.NO.71'>Csak az előőrseinket láttad még, Admirális! A flotta fő erői már gyülekeznek, hogy végső csapást mérjenek a földi kolóniákra!</entry>
 	<entry key='diplomacy.Sullep.terminate.72'>Elnézést, más sürgős ügyekben is intézkednem kell!</entry>
 	<entry key='diplomacy.Sullep.SURRENDER.73'>A Klánok Belső Köre úgy érzi nem marad szégyenben, ha igazi harcosnak adja meg magát!</entry>
 	<entry key='diplomacy.Sullep.SURRENDER.74'>A harcosnak is szüksége van békére. Eleget harcoltunk - letesszük a fegyvert a Birodalom előtt.</entry>
@@ -1573,7 +1573,7 @@
 	<entry key='diplomacy.Dargslan.DARGSLAN.NO.64'>Hogy merészelsz harcolni ellenünk? Meg fogunk semmisíteni!</entry>
 
 	<entry key='diplomacy.Dargslan.SURRENDER.65'>Legyőztünk benneteket az űrben és a földön is. Nincs értelme a további ellenállásnak!</entry>
-	<entry key='diplomacy.Dargslan.SURRENDER.YES.66'>Valóban... Egy alacsonyabbrendű fajnak sikerült fölénkkerekednie... Megadjuk magunkat!</entry>
+	<entry key='diplomacy.Dargslan.SURRENDER.YES.66'>Valóban... Egy alacsonyabbrendű fajnak sikerült fölénk kerekednie... Megadjuk magunkat!</entry>
 	<entry key='diplomacy.Dargslan.SURRENDER.YES.67'>A harci kedvünk töretlen, de anyagilag nem tudjuk tovább finanszírozni a háborút. Elismerjük a földiek győzelmét.</entry>
 	<entry key='diplomacy.Dargslan.SURRENDER.YES.68'>Nem tudjuk visszaszorítani az emberek flottáit. Most legyőztél bennünket - megadjuk magunkat.</entry>
 	<entry key='diplomacy.Dargslan.SURRENDER.NO.69'>Még látni fogjuk a képviselőiteket a porban csúszni a színünk előtt!</entry>
@@ -1601,7 +1601,7 @@
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.1'>Érdemesnek tartanánk az Ecalepek számára a Birodalomhoz fűződő szorosabb kapcsolatok ápolását. Ugyanis minden érdekeinkkel ellentétes mozzanatot komoly retorzió követhet!</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.2'>Nem kellene átgondolni az emberekhez fűződő viszonyt? Mint az Ecalepek régi barátja mondom ezt!</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.3'>A Birodalom kifejezett óhaja, hogy az Ecalep Köztársaság tegyen meg mindent a kapcsolatok javítása érdekében!</entry>
-	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.4'>Az Ecalep Köztársaságnak is komoly előnyére válna, ha a kapcsolatai javaulnának a Birodalommal.</entry>
+	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.4'>Az Ecalep Köztársaságnak is komoly előnyére válna, ha a kapcsolatai javulnának a Birodalommal.</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.5'>Felajánljuk baráti jobbunkat az Ecalep népnek.</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.6'>A Kongresszus is politikai tőkét kovácsolhatna a földiekkel való jobb viszonyból!</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.HUMBLE.7'>Úgy érezzük van mit felajánlanunk a hatalmas Ecalep Köztársaságnak, ha a viszony kissé javulna népeink között.</entry>
@@ -1609,7 +1609,7 @@
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.HUMBLE.9'>A Birodalom nagy súlyt fektet arra, hogy javuljon a viszony közte és a nagyrabecsült Ecalepek között.</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.10'>Az Ecalep Köztársaság üdvözöl minden olyan kezdeményezést, mely szorosabbra fűzi a barátságot népeink között.</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.11'>Úgy gondoljuk mindkettőnknek származnak új &quot;lehetőségei&quot; egy ilyen kapcsolatból. Ugye érti, mire gondolok, Admirális?</entry>
-	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.12'>Nyilván némi pozitív anyagi vonzata is lehet a dolognak, nem igaz, Admiráis?</entry>
+	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.YES.12'>Nyilván némi pozitív anyagi vonzata is lehet a dolognak, nem igaz, Admirális?</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.13'>A Kongresszus megfontolja a javaslatot. Értesítjük az eredményről a következő ülésszak után, Admirális.</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.14'>A Kongresszus elé terjesztjük az ügyet, de a döntés természetesen nem jósolható meg előre.</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.MAYBE.15'>Különbizottságot állítottunk fel a javaslat részletes megvitatására.</entry>
@@ -1618,7 +1618,7 @@
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.18'>Sokkal többet kéne ajánlania, Admirális!</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.YES.19'>Nagy várakozással nézünk a Birodalommal való ígéretes kapcsolat elébe.</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.YES.20'>Mi is hasonlóképpen gondoljuk, Admirális.</entry>
-	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.YES.21'>Valóban jelentős lenne imígyen az Ecalep Köztársaság haszna is!</entry>
+	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.YES.21'>Valóban jelentős lenne imigyen az Ecalep Köztársaság haszna is!</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.22'>Később megfontoljuk az ajánlatot. Még beszélünk!</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.23'>A kongresszus részletesen megvizsgálja a javaslatot, ha a mostani recessziót sikerült leküzdenie.</entry>
 	<entry key='diplomacy.Ecalep.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.24'>Napirendre tűzte a Kongresszus a földiek javaslatának napirendre tűzéséhez szükséges előzetes szavazás tervezetét.</entry>
@@ -1638,7 +1638,7 @@
 	<entry key='diplomacy.Ecalep.MONEY.YES.38'>Az adomány összegét feljegyeztük, az ügyet megjegyeztük.</entry>
 	<entry key='diplomacy.Ecalep.MONEY.YES.39'>Sok barátot szereztél ma, Admirális...</entry>
 	<entry key='diplomacy.Ecalep.MONEY.YES.40'>Örömmel fogadjuk az adományt.</entry>
-	<entry key='diplomacy.Ecalep.MONEY.NO.41'>Rosszul időzített ajánlatod komoly felzúdulást keltett a Kongresszusben.</entry>
+	<entry key='diplomacy.Ecalep.MONEY.NO.41'>Rosszul időzített ajánlatod komoly felzúdulást keltett a Kongresszusban.</entry>
 	<entry key='diplomacy.Ecalep.MONEY.NO.42'>Nyilvánvaló megvesztegetési kísérleted nem sült el túl jól...</entry>
 	<entry key='diplomacy.Ecalep.MONEY.NO.43'>Ezek a vesztegetési ügyek lassan nemzeti botrányt okoznak. Különösen, ha a pénzek idegen birodalmaktól származnak...</entry>
 	<entry key='diplomacy.Ecalep.TRADE.44'>A Birodalom szeretné támogatni a szabad kereskedelem megteremtésére irányuló kezdeményezéseket.</entry>
@@ -1656,7 +1656,7 @@
 	<entry key='diplomacy.Ecalep.ALLY.NO.56'>Nem látunk sok fantáziát egy háborúban a %s ellen.</entry>
 	<entry key='diplomacy.Ecalep.ALLY.NO.57'>Nem fogjuk engedni, hogy hadseregünk veszteségeket szenvedjen egy ilyen értelmetlen háborúban!</entry>
 	<entry key='diplomacy.Ecalep.DARGSLAN.58'>A Dargslan Birodalom egyre nagyobb fenyegetés minden békés faj számára a galaxisban. Azonban már volt &quot;szerencsénk&quot; hallani felőlük, és csakis a teljes összefogás menthet meg bennünket!</entry>
-	<entry key='diplomacy.Ecalep.DARGSLAN.YES.59'>A Dargslan faj terjeszkedésének megállítása már sok-sok millóba került nekünk. Örömmel vesszük, hogy mostantól megoszthatjuk a költségeket!</entry>
+	<entry key='diplomacy.Ecalep.DARGSLAN.YES.59'>A Dargslan faj terjeszkedésének megállítása már sok-sok millióba került nekünk. Örömmel vesszük, hogy mostantól megoszthatjuk a költségeket!</entry>
 	<entry key='diplomacy.Ecalep.DARGSLAN.YES.60'>A kongresszus is régóta érzi, hogy a Dargslan Birodalom komoly fenyegetést jelenthet. Meg kell állítani őket, amíg még lehet!</entry>
 	<entry key='diplomacy.Ecalep.DARGSLAN.YES.61'>Sokszor fontolgattuk már a Dargslan férgek eltaposását. Egyesítve a két birodalom erejét, biztosan siker koronázza erőfeszítéseinket.</entry>
 	<entry key='diplomacy.Ecalep.DARGSLAN.NO.62'>Nem sok haszon származna most egy véres háborúból a Dargslanok ellen.</entry>
@@ -1664,13 +1664,13 @@
 	<entry key='diplomacy.Ecalep.DARGSLAN.NO.64'>Sokat veszíthetünk, de keveset nyerhetünk ebben a háborúban!</entry>
 	<entry key='diplomacy.Ecalep.SURRENDER.65'>Sokkal kevesebb veszteséget jelentene az Ecalep népnek, ha most megadná magát. Ajánlatunk csak két napig érvényes, utána kénytelenek leszünk elsöpörni az Ecalep védelmet!</entry>
 	<entry key='diplomacy.Ecalep.SURRENDER.YES.66'>Neeeee! Megadjuk magunkat!</entry>
-	<entry key='diplomacy.Ecalep.SURRENDER.YES.67'>Belátjuk, hogy nincs semmi esélyünk... Sniff... Megadjuk magunkat.</entry>
+	<entry key='diplomacy.Ecalep.SURRENDER.YES.67'>Belátjuk, hogy nincs semmi esélyünk... Szipp... Megadjuk magunkat.</entry>
 	<entry key='diplomacy.Ecalep.SURRENDER.YES.68'>A Kongresszus elfogadta a Birodalom jegyzékét a megadás tárgyában.</entry>
 	<entry key='diplomacy.Ecalep.SURRENDER.NO.69'>Senki nem beszélhet ilyen hangon a Kongresszus követével! Ezért még drágán megfizetsz, ember!</entry>
 	<entry key='diplomacy.Ecalep.SURRENDER.NO.70'>Hah! A bolondok arroganciája! Hogy is hívták azt a fajt, aki utoljára így beszélt velünk? Jaanosian? Achanian? Nem, mégis inkább a Koolishok voltak... Mindegy: halottak egytől egyig!</entry>
 	<entry key='diplomacy.Ecalep.SURRENDER.NO.71'>Fogsz te még előttünk térdepelni, te bolond! Mit láttál te az Ecalep nép erejéből! Mert néhány fegyvertelen kereskedőhajónkat nagy erőfeszítések árán megsemmisítetted, azt hiszed, van bármi esélyed?</entry>
 	<entry key='diplomacy.Ecalep.terminate.72'>Sajnálom, de félbe kell szakítanom a beszélgetésünket. Fontos szolgálati ügyben hívnak a parancsnoki hídra.</entry>
-	<entry key='diplomacy.Ecalep.SURRENDER.73'>A Kongresszus reméli, hogy a Birodalom megértő lesz legyőzőtt ellenfeléhez. Megadjuk magunkat!</entry>
+	<entry key='diplomacy.Ecalep.SURRENDER.73'>A Kongresszus reméli, hogy a Birodalom megértő lesz legyőzött ellenfeléhez. Megadjuk magunkat!</entry>
 	<entry key='diplomacy.Ecalep.SURRENDER.74'>Az Ecalepek egyetlen esélye a szégyenletes futás! Letesszük a fegyvert!</entry>
 	<entry key='diplomacy.Ecalep.SURRENDER.75'>Eleinte úgy gondoltuk, hogy van esélyünk az emberek ellen, de tévedtünk. A Kongresszus békét kér az Ecalep nép nevében.</entry>
 	<entry key='diplomacy.Ecalep.ALLIANCE.76'>A Kongresszus a Birodalom figyelmébe ajánlja 2365/c jelű üzenetét, melyben szövetséget ajánl a nagyrabecsült embereknek.</entry>
@@ -1681,7 +1681,7 @@
 	<entry key='diplomacy.Ecalep.PEACE.81'>Békét ajánlunk és befejezését ennek az ostoba vérontásnak!</entry>
 	<entry key='diplomacy.Ecalep.MONEY.82'>Nagylelkű adományozókat keresünk a következő kongresszusi választások finanszírozásához. %s creditnyi adomány elegendő is lenne...</entry>
 	<entry key='diplomacy.Ecalep.MONEY.83'>&quot;A kutya ugat, %s credit beszél&quot;, ahogy az emberek mondják. Az Ecalepek minden anyagi hozzájárulást a kapcsolatok javítási szándékaként értelmeznek.</entry>
-	<entry key='diplomacy.Ecalep.MONEY.84'>Sok pénznél, a még több jobb csak. Sajnos éppen hiánycikk nálunk ez a termék. Nem lehetne tárgyalni valamiféle %s creditnyi &quot;transzferrről&quot;?</entry>
+	<entry key='diplomacy.Ecalep.MONEY.84'>Sok pénznél a még több jobb csak. Sajnos éppen hiánycikk nálunk ez a termék. Nem lehetne tárgyalni valamiféle %s creditnyi &quot;transzferről&quot;?</entry>
 	<entry key='diplomacy.Ecalep.WAR.85'>A türelmünknek vége! Készülj a háborúra!</entry>
 	<entry key='diplomacy.Ecalep.WAR.86'>Úgy döntöttünk, a háború haszna most nagyobb lehet, mint bármikor. Ez hadüzenet volt, Admirális!</entry>
 	<entry key='diplomacy.Ecalep.WAR.87'>A Kongresszus nem tűrheti tovább az emberek kémtevékenységét a területén. NEM! Ne is tagadd! Az utolsó elfogott ügynök mindent bevallott és a megtorlás nem marad el!</entry>
@@ -1754,17 +1754,17 @@
 	<entry key='diplomacy.FreeTraders.DARGSLAN.NO.64'>Nincs remény harcolni egy pillanatnyilag legyőz- hetetlen ellenfél ellen. Először fel kell építeni a flottánkat és csak a megfelelő pillanatban lecsapni.</entry>
 	<entry key='diplomacy.FreeTraders.SURRENDER.65'>Erőitek szétzilálódtak legyőzhetetlen flottánk csapásai alatt. De a Birodalom nem szeretne az okvetlenül szükségesnél több veszteséget, így felajánlja a megadás lehetőségét a Szövetségnek!</entry>
 	<entry key='diplomacy.FreeTraders.SURRENDER.YES.66'>Az Elsők Tanácsa minden lehetőséget mérlegelt és csak egy kivezető utat látott: a feltétel nélküli megadásét.</entry>
-	<entry key='diplomacy.FreeTraders.SURRENDER.YES.67'>A Kereskedők Szövetsége nem engedheti meg magának a haború kiadásait. Megadjuk magunkat, hogy elkerüljük a további veszteségeket.</entry>
+	<entry key='diplomacy.FreeTraders.SURRENDER.YES.67'>A Kereskedők Szövetsége nem engedheti meg magának a háború kiadásait. Megadjuk magunkat, hogy elkerüljük a további veszteségeket.</entry>
 	<entry key='diplomacy.FreeTraders.SURRENDER.YES.68'>A nemzet puszta léte fontosabb a büszkeségnél. Elismerjük, hogy a Birodalom legyőzött bennünket és megadjuk magunkat.</entry>
 	<entry key='diplomacy.FreeTraders.SURRENDER.NO.69'>A Szövetség nem maradhat független, ha a Birodalom kinyújtja felé halálos csápjait. De legalább harcolni fogunk az utolsó hajóig!</entry>
 	<entry key='diplomacy.FreeTraders.SURRENDER.NO.70'>A Tanácsot nem rémisztette meg a Birodalom üres fenyegetőzése. Úgyis képtelenek lesztek legyőzni a flottánkat!</entry>
 	<entry key='diplomacy.FreeTraders.SURRENDER.NO.71'>A kincstárunk tele van, a gyárkapacitásunk szinte végtelen, a hadseregünk erős. Miért adnánk meg magunkat harc nélkül?</entry>
 	<entry key='diplomacy.FreeTraders.terminate.72'>Más sürgős ügyek elszólítanak. Hamarosan újra tárgyalóasztalhoz ülünk.</entry>
 	<entry key='diplomacy.FreeTraders.SURRENDER.73'>A Tanács nem lát fantáziát a további ellenállásban. Letesszük a fegyvert.</entry>
-	<entry key='diplomacy.FreeTraders.SURRENDER.74'>A háború költségei telejesen kimerítették az államkincstárt. Bízva a Birodalom nagylelkűségében és anyagi erőforrásaiban, átadjuk bolygóink irányítását.</entry>
+	<entry key='diplomacy.FreeTraders.SURRENDER.74'>A háború költségei teljesen kimerítették az államkincstárt. Bízva a Birodalom nagylelkűségében és anyagi erőforrásaiban, átadjuk bolygóink irányítását.</entry>
 	<entry key='diplomacy.FreeTraders.SURRENDER.75'>A Birodalom nagyobb anyagi erőforrásai végül is győzedelmeskedtek. Felhagyunk az értelmetlen háborúval és alárendeljük magunkat a Birodalomnak.</entry>
 	<entry key='diplomacy.FreeTraders.ALLIANCE.76'>A Tanács felajánlja szövetségi hűségét a Birodalomnak. Ez a Birodalom céljainak is megfelel, nemde, Admirális?</entry>
-	<entry key='diplomacy.FreeTraders.ALLIANCE.77'>Ha a jövőben védelmi tevékenységeinket össze- hangolnánk, akkor lényegesen határozotabban léphet- nénk fel a többi birodalommal szemben. Elfogad minket a Birodalom szövetségesének?</entry>
+	<entry key='diplomacy.FreeTraders.ALLIANCE.77'>Ha a jövőben védelmi tevékenységeinket össze- hangolnánk, akkor lényegesen határozottabban léphet- nénk fel a többi birodalommal szemben. Elfogad minket a Birodalom szövetségesének?</entry>
 	<entry key='diplomacy.FreeTraders.ALLIANCE.78'>Bizalomért bizalmat, hűségért hűséget ajánlunk. Hajlandó a birodalom szövetséget kötni velünk?</entry>
 	<entry key='diplomacy.FreeTraders.PEACE.79'>A jelenlegi szituáció elviselhetetlen anyagi terheket ró a Szövetségre. Nem lenne hasznosabb a békéről tárgyalni, Admirális?</entry>
 	<entry key='diplomacy.FreeTraders.PEACE.80'>Egy békeszerződést mindkét oldalon pozitívan fogadnának, nem, Admirális? Így ráadásul jobban koncentrálhatnánk egyéb &quot;feladatainkra&quot; is...</entry>
@@ -1786,28 +1786,28 @@
 	<entry key='tech.dargslanselfrepairtank.longname'>Dargslan Önjavító Tank</entry>
 	<entry key='tech.dargslanselfrepairtank.description'>A Dargslanok speciális egysége. Harc közben is képes önmagát javítani.</entry>
 	<entry key='tech.dribsparalizer.name'>Paralizáló</entry>
-	<entry key='tech.dribsparalizer.longname'>Dribs Paralizáló</entry>
-	<entry key='tech.dribsparalizer.description'>A Dribsek speciális egysége. Több ellenséges járművet képes paralizálni, amik ezáltal működésképtelenné válnak.</entry>
+	<entry key='tech.dribsparalizer.longname'>Drib Paralizáló</entry>
+	<entry key='tech.dribsparalizer.description'>A Dribek speciális egysége. Több ellenséges járművet képes paralizálni, amik ezáltal működésképtelenné válnak.</entry>
 	<entry key='tech.ecaleprocketjammer.name'>Rakétazavaró</entry>
 	<entry key='tech.ecaleprocketjammer.longname'>Ecalep Rakétazavaró</entry>
 	<entry key='tech.ecaleprocketjammer.description'>Az Ecalepek speciális egysége. A környezetébe irányított rakétákat megzavarja, így azok nem okoznak sérülést.</entry>
 	<entry key='tech.garthogradarjammer.name'>Radarzavaró</entry>
 	<entry key='tech.garthogradarjammer.longname'>Garthog Radarzavaró</entry>
-	<entry key='tech.garthogradarjammer.description'>A Garthogok speciális egysége. Zavarja a radarkocsikat és a kémműholdakat, így nem látszanak az garthog egységek a minitérképen.</entry>
+	<entry key='tech.garthogradarjammer.description'>A Garthogok speciális egysége. Zavarja a radarkocsikat és a kémműholdakat, így nem látszanak a garthog egységek a minitérképen.</entry>
 	<entry key='tech.morgathkamikazetank.name'>Kamikaze Tank</entry>
 	<entry key='tech.morgathkamikazetank.longname'>Morgath Kamikaze Tank</entry>
 	<entry key='tech.morgathkamikazetank.description'>A Morgathok speciális egysége. Komoly sérülés esetén vagy parancsra önmegsemmisítőjével sérülést okoz a környező egységeknek.</entry>
 	<entry key='tech.sullepartillery.name'>Tüzérség</entry>
 	<entry key='tech.sullepartillery.longname'>Sullep Tüzérség</entry>
 	<entry key='tech.sullepartillery.description'>A Sullepek speciális egysége. Hatósugara sokkal nagyobb a legtöbb egységnél, és lövedéke egy kis területen mindent sebez.</entry>
-	<entry key='tech.ychomminelayer.name'>Aknatelepító</entry>
+	<entry key='tech.ychomminelayer.name'>Aknatelepítő</entry>
 	<entry key='tech.ychomminelayer.longname'>Ychom Aknatelepítő</entry>
 	<entry key='tech.ychomminelayer.description'>Az Ychomok speciális egysége. Fegyvertelen, de aknákat képes telepíteni, amik a legtöbb egységet képesek azonnal megsemmisíteni.</entry>
-	<entry key='tech.dargslanfighter.name'>Dagslan Vadász</entry>
+	<entry key='tech.dargslanfighter.name'>Dargslan Vadász</entry>
 	<entry key='tech.dargslanfighter.longname'>Dargslan Vadász</entry>
 	<entry key='tech.dargslanfighter.description'>Relatíve erős vadász.</entry>
-	<entry key='tech.dribsfighter.name'>Dibs Vadász</entry>
-	<entry key='tech.dribsfighter.longname'>Dribs Vadász</entry>
+	<entry key='tech.dribsfighter.name'>Drib Vadász</entry>
+	<entry key='tech.dribsfighter.longname'>Drib Vadász</entry>
 	<entry key='tech.dribsfighter.description'>Közepesen erős vadász</entry>
 	<entry key='tech.ecalepfighter.name'>Ecalep Vadász</entry>
 	<entry key='tech.ecalepfighter.longname'>Ecalep Vadász</entry>
@@ -1833,8 +1833,8 @@
 	<entry key='tech.dargslandestroyer.name'>Dargslan Romboló</entry>
 	<entry key='tech.dargslandestroyer.longname'>Dargslan Romboló</entry>
 	<entry key='tech.dargslandestroyer.description'>Relatíve erős romboló</entry>
-	<entry key='tech.dribsdestroyer.name'>Dribs Romboló</entry>
-	<entry key='tech.dribsdestroyer.longname'>Dribs Romboló</entry>
+	<entry key='tech.dribsdestroyer.name'>Drib Romboló</entry>
+	<entry key='tech.dribsdestroyer.longname'>Drib Romboló</entry>
 	<entry key='tech.dribsdestroyer.description'>Közepesen erős romboló</entry>
 	<entry key='tech.ecalepdestroyer.name'>Ecalep Romboló</entry>
 	<entry key='tech.ecalepdestroyer.longname'>Ecalep Romboló</entry>
@@ -1846,7 +1846,7 @@
 	<entry key='tech.garthogdestroyer.longname'>Garthog Romboló</entry>
 	<entry key='tech.garthogdestroyer.description'>Közepesen erős romboló</entry>
 	<entry key='tech.morgathdestroyer.name'>Morgath Romboló</entry>
-	<entry key='tech.morgathdestroyer.longname'>Morgat Romboló</entry>
+	<entry key='tech.morgathdestroyer.longname'>Morgath Romboló</entry>
 	<entry key='tech.morgathdestroyer.description'>Közepesen erős romboló</entry>
 	<entry key='tech.piratedestroyer.name'>Kalóz Romboló</entry>
 	<entry key='tech.piratedestroyer.longname'>Kalóz Romboló</entry>
@@ -1857,8 +1857,8 @@
 	<entry key='tech.dargslanbattleship.name'>Dargslan Csh.</entry>
 	<entry key='tech.dargslanbattleship.longname'>Dargslan Csatahajó</entry>
 	<entry key='tech.dargslanbattleship.description'>Relatíve erős csatahajó</entry>
-	<entry key='tech.dribsbattleship.name'>Dribs Csatahajó</entry>
-	<entry key='tech.dribsbattleship.longname'>Dribs Csatahajó</entry>
+	<entry key='tech.dribsbattleship.name'>Drib Csatahajó</entry>
+	<entry key='tech.dribsbattleship.longname'>Drib Csatahajó</entry>
 	<entry key='tech.dribsbattleship.description'>Közepesen erős csatahajó</entry>
 	<entry key='tech.ecalepbattleship.name'>Ecalep Csatahajó</entry>
 	<entry key='tech.ecalepbattleship.longname'>Ecalep Csatahajó</entry>
@@ -1926,7 +1926,7 @@
 	<entry key='spacewar.ship_weapon_damage'>Sérülés: %d%%</entry>
 	<entry key='spacewar.ship_weapon_empty'>Üres</entry>
 	<entry key='spacewar.ship_status_none'>Nincs kiválasztva.</entry>
-	<entry key='spacewar.ship_status_many'>Túl sokminden van kiválasztva.</entry>
+	<entry key='spacewar.ship_status_many'>Túl sok van kiválasztva.</entry>
 
 	<entry key='spacewar.statistics'>Statisztika</entry>
 	<entry key='spacewar.statistics_own_units'  >SAJÁT egységek      : %6d / %6d</entry>
@@ -2088,10 +2088,10 @@
 	<entry key='battlefinish.mission-7.merchant7_bonus'>JUTALOM: 5000 kredit</entry>
 	<entry key='battlefinish.mission-7_task2.merchant8'>Üzenet a Kereskedő 8-tól: Épp itt volt az ideje, hogy megleckéztesse a Garthogokat. Köszönöm, Parancsnok! Jelenteni fogom az esetet a feletteseinek.</entry>
 	<entry key='battlefinish.mission-7_task2.merchant8_bonus'>JUTALOM: A Szabad Kereskedők Szövetsége kitüntetett a Bátorság Medállal. A neved ismert és elismert lett a kereskedők körében!</entry>
-	<entry key='battlefinish.mission-5.garthog'>A felrobbanása előtt, egy Garthog vadász egy üzenetet küldött: Lehet, hogy megnyert egy csatát, parancsnok, de nem a háborút! Előbb vagy utóbb elkapj...</entry>
+	<entry key='battlefinish.mission-5.garthog'>A felrobbanása előtt egy Garthog vadász egy üzenetet küldött: Lehet, hogy megnyert egy csatát, parancsnok, de nem a háborút! Előbb vagy utóbb elkapj...</entry>
 	<entry key='battlefinish.mission-5.garthog_bonus'>JUTALOM: Előléptetés kapitánnyá.</entry>
 	<entry key='battlefinish.mission-4.10'>Üzenet a Naxos bolygó kormányzójától: A kolónia lakosságának nevében szeretnék köszönetet mondani Önnek, Kapitány. Jó munkát végzett!</entry>
-	<!-- If save the pirate, than this bonus -->
+	<!-- If saved the pirate, then this bonus -->
 	<entry key='battlefinish.mission-4.10_bonus'>Üzenet a kalózhajóról: Megmentette az életemet! Ezt nem felejtem el Magának! A társaimmal segítségére leszek, ha bajba kerülne. Viszontlátásra, Kapitány!</entry>
 	<entry key='battlefinish.mission-3.11'>Üzenet a szállítóhajóról: Örömmel látom, hogy végre belevaló parancsnokot neveztek ki a körzetbe! Kérem, fogadja el ezt a védőpajzsot a hálám jeléül.</entry>
 	<entry key='battlefinish.mission-3.11_bonus'>JUTALOM: Egy pajzs v1.0-t leszállítottak a raktárba.</entry>
@@ -2104,7 +2104,7 @@
 	<entry key='battlefinish.mission-16.20'>Üzenet a pénzszállító hajóról: Jó munka volt, Kapitány. A felettese értesülni fog kivételes képességeiről.</entry>
 	<entry key='battlefinish.mission-17.21'>Üzenet az egyik kísérő vadásztól: A legfontosabb az volt, hogy a találmány ne jusson a Garthogok kezére. De nagy árat fizettünk a győzelemért...</entry>
 	<entry key='battlefinish.mission-17.21_bonus'>JUTALOM: Előléptetés parancsnokká.</entry>
-	<entry key='battlefinish.mission-14.23'>Üzenet New Carolina kormányzójától: Szerencsére, időben kiirtotta a vírusszállitó egységeket. Sok ezer életet mentett meg ezzel, Parancsnok.</entry>
+	<entry key='battlefinish.mission-14.23'>Üzenet New Caroline kormányzójától: Szerencsére, időben kiirtotta a vírusszállító egységeket. Sok ezer életet mentett meg ezzel, Parancsnok.</entry>
 	<entry key='battlefinish.mission-19.31'>A helyettesed megjegyzése: úgy látszik néha kormányzónak lenni sem túl jó dolog...</entry>
 	<entry key='battlefinish.mission-21.32'>Üzenet a parancsnokságról: A prototípus bevált - sorozatgyártása megkezdhető.</entry>
 	<entry key='battlefinish.mission-21.32_bonus'>JUTALOM: Romboló v2.0 prototípus.</entry>
@@ -2130,12 +2130,12 @@
 	<entry key='mission-5.tullens_fleet'>Tullen flottája</entry>
 	<entry key='mission-5.garthog_fleet'>Garthog</entry>
 	<entry key='mission-8.test'>Töltsd ki a tesztet</entry>
-	<entry key='mission-8.test.desc'>Menj a hídra és töltsd ki Dr. Catherine Mitchell pszihológus tesztjét.</entry>
-	<entry key='mission-8.go_to_bar'>Menj a bárba és beszélj Dr. Mitchellel a látomásodról.</entry>
+	<entry key='mission-8.test.desc'>Menj a hídra és töltsd ki Dr. Catherine Mitchell pszichológus tesztjét.</entry>
+	<entry key='mission-8.go_to_bar'>Menj a bárba és beszélj Dr. Mitchell-lel a látomásodról.</entry>
 	<entry key='mission-15.kelly'>Menj a bárba és beszélj Kellyvel a kémről</entry>
 	<entry key='Empire.main_fleet'>Főflotta</entry>
 	<entry key='bar.start_talking'>Kattints, hogy beszélgethess %s.</entry>
-	<entry key='phsychologist'>Dr. Mitchellel</entry>
+	<entry key='phsychologist'>Dr. Mitchell-lel</entry>
 	<entry key='kelly'>Kellyvel</entry>
 	<entry key='brian'>Briannal</entry>
 	<entry key='doctor'>a Doktorral</entry>
@@ -2190,7 +2190,7 @@
 	<entry key='mission-18.garthog'>Győzd le a Garthog birodalmat</entry>
 	<entry key='mission-18.garthog.desc'>Ami elég, az elég. Foglald el a bolygóikat (bármilyen sorrendben)!</entry>
 	<entry key='mission-18.garthog1'>Foglald el a Garthog 1-et</entry>
-	<entry key='mission-18.garthog2'>Foglald el a Garthog 2-őt</entry>
+	<entry key='mission-18.garthog2'>Foglald el a Garthog 2-t</entry>
 	<entry key='mission-18.garthog3'>Foglald el a Garthog 3-at</entry>
 	<entry key='mission-18.garthog4'>Foglald el a Garthog 4-et</entry>
 	<entry key='mission-18.garthog5'>Foglald el a Garthog 5-öt</entry>
@@ -2198,8 +2198,8 @@
 	<entry key='mission-19.blockade'>A Zeuson blokádja</entry>
 	<entry key='mission-19.blockade.desc'>Akadályozd meg, hogy a lázadó kormányzó elhagyja a szektorunkat.</entry>
 	<entry key='mission-19.unknown'>Ismeretlen</entry>
-	<entry key='mission-20.brian'>Még több látomás, beszélj Brian-nel</entry>
-	<entry key='mission-20.brian.desc'>Menj a bárba és beszélj Brian-nel a robotikáról.</entry>
+	<entry key='mission-20.brian'>Még több látomás, beszélj Briannal</entry>
+	<entry key='mission-20.brian.desc'>Menj a bárba és beszélj Briannal a robotikáról.</entry>
 	<entry key='mission-21.prototype2'>Új prototípus kísérete</entry>
 	<entry key='mission-21.prototype2.desc'>Találkozz a flottával és biztosítsd, hogy a prototípus épségben megérkezzen a céljához.</entry>
 	<entry key='mission-21.prototype2.name'>Prototípus</entry>
@@ -2228,7 +2228,7 @@
 	<entry key='chat.global.dont_shoot'>Ne lőjön! Ne lőjön! Azonnal visszafordulunk!</entry>
 	<entry key='diplomacy.relations'>Viszonyok ellenőrzése</entry>
 	<entry key='diplomacy.cancel'>Mégsem</entry>
-	<entry key='message.new_player_discovered'>Új galatikus szereplőt fedeztél fel: %s.</entry>
+	<entry key='message.new_player_discovered'>Új galaktikus szereplőt fedeztél fel: %s.</entry>
 	<entry key='diplomacy.click_to_exit'>Kattints a visszalépéshez</entry>
 	<entry key='diplomacy.show_panel'>Kapcsolatfelvétel más fajokkal és frakciókkal.</entry>
 	<entry key='diplomacy.close_panel'>Panel bezárása</entry>
@@ -2239,7 +2239,7 @@
 	<entry key='diplomacy.type.ALLY'>Szövetségkötés...</entry>
 	<entry key='diplomacy.type.DARGSLAN'>Szövetség a Dargslanok ellen</entry>
 	<entry key='diplomacy.type.SURRENDER'>Megadásra felszólítás</entry>
-	<entry key='diplomacy.AGGRESSIVE'>Aggresszív megközelítés</entry>
+	<entry key='diplomacy.AGGRESSIVE'>Agresszív megközelítés</entry>
 	<entry key='diplomacy.NEUTRAL'>Semleges megközelítés</entry>
 	<entry key='diplomacy.HUMBLE'>Alázatos megközelítés</entry>
 	<entry key='settings.base_speed'>Játék sebesség</entry>
@@ -2252,7 +2252,7 @@
 	<entry key='chat.merchant1.n5'>Ne lőjön! Csak ártatlan kereskedő vagyok!</entry>
 	<entry key='chat.merchant1.n6.o'>Pusztulj</entry>
 	<entry key='chat.merchant1.n6'>Biztos vagyok benne, hogy kalóz vagy. Készülj fel a halálra!</entry>
-	<entry key='chat.merchant1.n7.o'>Naa, rendben. Folytasd az utadat!</entry>
+	<entry key='chat.merchant1.n7.o'>Na, rendben. Folytasd az utadat!</entry>
 	<entry key='chat.merchant1.n8'>Ne lőjön! Ne lőjön! Azonnal visszafordulok!</entry>
 	<entry key='chat.merchant2.n1'>Ez az MX43-as hajó, kereskedelmi úton.</entry>
 	<entry key='chat.merchant2.n2'>Kérem, folytassa az útját!</entry>
@@ -2261,7 +2261,7 @@
 	<entry key='chat.merchant2.n6'>Halál vár rád!</entry>
 	<entry key='chat.merchant2.n7'>Na, rendben, most az egyszer elmehetsz.</entry>
 	<entry key='chat.merchant2.n8'>Aargh! Ne! Neeeee! Már fordulok is!</entry>
-	<entry key='chat.merchant3.n0'>Hajó, kérem közölje a nevét és uticélját!</entry>
+	<entry key='chat.merchant3.n0'>Hajó, kérem közölje a nevét és úticélját!</entry>
 	<entry key='chat.merchant3.n1'>Ez az ECHO hajó, kereskedelmi úton.</entry>
 	<entry key='chat.merchant3.n2'>Köszönöm ECHO. Folytassa a jelenlegi irányba.</entry>
 	<entry key='chat.merchant3.n3.o'>Fel kellene melegítenem a fegyvereimet...</entry>
@@ -2288,8 +2288,8 @@
 	<entry key='chat.merchant5.n4'>Nagyszerű, már éppen hívtam az ügyvédemet...</entry>
 	<entry key='chat.merchant5.n5'>Ismétlem itt McAllison beszél, a Max4-es hajó parancsnoka. Remélem, nem kalózkodásból szeretné kiegészíteni a fizetését, kapitány?</entry>
 	<entry key='chat.merchant5.n6'>Fizess vagy tüzet nyitunk!</entry>
-	<entry key='chat.merchant5.n7'>Tünés, mielőtt meggondolom magam!</entry>
-	<entry key='chat.merchant5.n8'>Ne lőjj! Ez biztos csak egy rossz vicc! Engedj el. Megígérem, hogy nem jelentem az esetet a parancsnokának.</entry>
+	<entry key='chat.merchant5.n7'>Tűnés, mielőtt meggondolom magam!</entry>
+	<entry key='chat.merchant5.n8'>Ne lőj! Ez biztos csak egy rossz vicc! Engedj el. Megígérem, hogy nem jelentem az esetet a parancsnokának.</entry>
 	<entry key='chat.merchant5.n9'>Rendben, ahogy akarod. Búcsúzz el a családodtól!</entry>
 	<entry key='chat.merchant5.nA'>Csak vicceltem. Folytassa az útját, McAllison!</entry>
 	<entry key='chat.merchant5.nB'>Ne lőjön! Inkább elhagyom a körzetet!</entry>
@@ -2308,7 +2308,7 @@
 	<entry key='chat.merchant7.n3'>Szóval ki a jobb lövő, én vagy te?</entry>
 	<entry key='chat.merchant7.n5'>Ez egy fegyvertelen kereskedelmi hajó. Engedjen az utunkra, különben jelentem ezt az incidenst a felettesének!</entry>
 	<entry key='chat.merchant7.n6.o'>Szóval el akarsz menekülni?</entry>
-	<entry key='chat.merchant7.n6'>Szóval el akarsz meneküni harc nélkül? Mi van, nyuszi vagy, McFly?</entry>
+	<entry key='chat.merchant7.n6'>Szóval el akarsz menekülni harc nélkül? Mi van, nyuszi vagy, McFly?</entry>
 	<entry key='chat.merchant7.n7.o'>Rendben, átengedlek.</entry>
 	<entry key='chat.merchant7.n8'>Én nem McFly vagyok, hanem az MX109-es kereskedelmi hajó - öt másodperce van, hogy átengedjen, vagy jelentem az esetet a felettesének.</entry>
 	<entry key='chat.merchant7.n9'>O.K. nyuszi, halál rád!</entry>
@@ -2318,7 +2318,7 @@
 	<entry key='chat.merchant8.n3'>Szóval ki a jobb lövő, én vagy te?</entry>
 	<entry key='chat.merchant8.n5'>Ez egy fegyvertelen kereskedelmi hajó. Engedjen az utunkra, különben jelentem ezt az incidenst a felettesének!</entry>
 	<entry key='chat.merchant8.n6.o'>Szóval el akarsz menekülni?</entry>
-	<entry key='chat.merchant8.n6'>Szóval el akarsz meneküni harc nélkül? Mi van, nyuszi vagy, McFly?</entry>
+	<entry key='chat.merchant8.n6'>Szóval el akarsz menekülni harc nélkül? Mi van, nyuszi vagy, McFly?</entry>
 	<entry key='chat.merchant8.n7.o'>Rendben, átengedlek.</entry>
 	<entry key='chat.merchant8.n8'>Ismétlem, ez a Krondox kereskedelmi hajó. Engedjen át, vagy jelentem az esetet a felettesének!</entry>
 	<entry key='chat.merchant8.n9'>O.K. nyuszi, halál rád!</entry>
@@ -2334,7 +2334,7 @@
 	<entry key='chat.m2.merchant2.n3'>O.K. Te akartad...</entry>
 	<entry key='chat.m2.merchant3.n0.o'>Azonnal távolodjanak el a kereskedő hajótól!</entry>
 	<entry key='chat.m2.merchant3.n0'>Szüntessék be a tüzelést! Azonnal távolodjanak el a kereskedő hajótól!</entry>
-	<entry key='chat.m2.merchant3.n1'>Hé, egy újabb ugri-bugri. Fiúk, kapjuk el!</entry>
+	<entry key='chat.m2.merchant3.n1'>Hé, egy újabb ugribugri. Fiúk, kapjuk el!</entry>
 	<entry key='chat.m2.merchant4.n0.o'>Állj! Itt a Bolygóközi Rendőrség beszél.</entry>
 	<entry key='chat.m2.merchant4.n0'>Állj! Itt a Bolygóközi Rendőrség beszél. Szüntessék be a harcot! Azonnal!</entry>
 	<entry key='chat.m2.merchant4.n1'>Azt hiszem, itt az idő olajra lépni...</entry>
@@ -2397,9 +2397,9 @@
 	<entry key='chat.m12.n4'>Rendben, átmehetnek!</entry>
 	<entry key='chat.m12.n5'>Köszönöm, uram!</entry>
 	<entry key='chat.m12.n6.o'>Nem értik? Azonnal vissza kell fordulniuk!</entry>
-	<entry key='chat.m12.n6'>Nem értik? Azonnal vissza kell fordulniuk! Éppen most hagytak el egy bolygót, és valószínű hogy fertőzött személyek is vannak a hajón. Azonnal vissza kell fordulniuk, és megvárni, amig a fertőzésnek vége nem lesz, és a karantén feloldásra nem kerül!</entry>
+	<entry key='chat.m12.n6'>Nem értik? Azonnal vissza kell fordulniuk! Éppen most hagytak el egy bolygót, és valószínű hogy fertőzött személyek is vannak a hajón. Azonnal vissza kell fordulniuk, és megvárni, amíg a fertőzésnek vége nem lesz, és a karantén feloldásra nem kerül!</entry>
 	<entry key='chat.m12.n7'>Mi NEM megyünk vissza arra a bolygóra. NEM leszünk megfertőzve a Birodalom parancsára. Soha!</entry>
-	<entry key='chat.m12.r0'>Ne lőjenek! Ne lőjenek! Visszatérünk, mégha bele is halunk.</entry>
+	<entry key='chat.m12.r0'>Ne lőjenek! Ne lőjenek! Visszatérünk, még ha bele is halunk.</entry>
 	<entry key='chat.m12.r1'>Ne lőjenek! Ne lőjenek! Visszafordulunk.</entry>
 	<entry key='chat.m12.n2.q'>A bolygó, amit elhagytak fertőzött.</entry>
 	<entry key='chat.m16.n0'>O.K. Garthogok, vonuljatok vissza, amíg lehet!</entry>
@@ -2434,7 +2434,7 @@
 	<entry key='@MainFleet'>Főflotta</entry>
 
 	<entry key="achievement.do_you_chat">Előbb csevej, aztán harc?</entry>
-	<entry key="achievement.do_you_chat.desc">Győzdd meg az ellenfelet a visszavonulásról az űrcsevejben.</entry>
+	<entry key="achievement.do_you_chat.desc">Győzd meg az ellenfelet a visszavonulásról az űrcsevejben.</entry>
 	<entry key='settings.ui_scale'>Felület nagyítás (X - normál)</entry>
 	<entry key='flagship.moveto.equipment2'>Felszerelés</entry>
 	<entry key='settings.movie_scale'>Teljesképernyős átvezetővideók</entry>
@@ -2481,7 +2481,7 @@
 	<entry key='chat.vi.5.n0.o'>Azonosítsa magát!</entry>
 	<entry key='chat.vi.5.n0'>Azonosítsa magát!</entry>
 	<entry key='chat.vi.5.n1'>Ez a Max4-es hajó, kereskedelmi úton.</entry>
-	<entry key='chat.vi.5.n2.o'>Foduljon vissza! A bolygó meg van fertőzve.</entry>
+	<entry key='chat.vi.5.n2.o'>Forduljon vissza! A bolygó meg van fertőzve.</entry>
 	<entry key='chat.vi.5.n2'>Forduljon vissza! A bolygó meg van fertőzve és blokád alatt van!</entry>
 	<entry key='chat.vi.5.n3'>De nekem át kell jutnom, egy fontos ügy miatt!</entry>
 	<entry key='chat.vi.5.n4.o'>Nem, vissza kell fordulnia!</entry>
@@ -2689,13 +2689,13 @@
   	<entry key='settings.confirm_overwrite'>Mentés felülírása?</entry>
 	<entry key="settings.confirm_quit">Biztosan ki akarsz lépni?</entry>
 	<entry key="achievement.well_respected_feature">Mélyen tisztelt funkció</entry>
-	<entry key="achievement.well_respected_feature.desc">Beszélj 100-szor az űrharc során</entry>
+	<entry key="achievement.well_respected_feature.desc">Beszélj 100-szor űrharc során</entry>
 	<entry key="diplomacy.generic.endtalk">A Birodalom fontos ügyei elszólítanak.</entry>
 	<entry key="quickresearch.stop">Stop</entry>
 	<entry key="quickresearch.no_active">Nincs aktív kutatás</entry>
 	<entry key="quickresearch.lab_required">Szükséges labor:</entry>
 	<entry key="quickresearch.lab_available">Elérhető labor:</entry>
-	<entry key="quickresearch.more_planets">Tipp: kolonizájl vagy foglalj el újabb bolygókat.</entry>
+	<entry key="quickresearch.more_planets">Tipp: kolonizálj vagy foglalj el újabb bolygókat.</entry>
 	<entry key="quickresearch.reorg_labs">Tipp: A laborokat át kell szervezni.</entry>
 	<entry key="quickresearch.check_labs">Tipp: Néhány labor nem működik vagy nincs még kész.</entry>
 	<entry key="quickresearch.civ">Stat.</entry>
@@ -2929,7 +2929,7 @@
 
 	<entry key='traits.equipment_builder'>Felszerelésgyártók</entry>
 	<entry key='traits.equipment_builder.desc'>A civilizációd mesterfokon űzte a felszerelésgyártást a galaktikus kor előtt. A felszerelésgyártás hatékonysága %.0f%%-ra nő.</entry>
-	<entry key='traits.equipment_mocker'>Feleszerelésutánzók</entry>
+	<entry key='traits.equipment_mocker'>Felszerelésutánzók</entry>
 	<entry key='traits.equipment_mocker.desc'>A civilizációd nem sajátította el kellően a felszerelésgyártást a galaktikus kor előtt. A felszerelésgyártás hatékonysága %.0f%%-ra csökken.</entry>
 
 	<entry key='traits.weapon_builder'>Fegyverkészítők</entry>
@@ -2974,11 +2974,11 @@
 	<entry key='difficulty.HARD'>Nehéz</entry>
 
 	<entry key='skirmish.conquest'>Hódítás általi győzelem</entry>
-	<entry key='skirmish.conquest.tooltip'>Győzdd le az összes többi csoportot</entry>
+	<entry key='skirmish.conquest.tooltip'>Győzd le az összes többi csoportot</entry>
 	<entry key='skirmish.occupation'>Megszállás általi győzelem</entry>
 	<entry key='skirmish.occupation.tooltip'>Birtokold legalább a galaxis bolygóinak megadott százalékát az adott napig.</entry>
 	<entry key='skirmish.economic'>Gazdaság általi győzelem</entry>
-	<entry key='skirmish.economic.tooltip'>Legyél az első, aki eléri a megadott kreditszintet. A csoportok összpénze számít.</entry>
+	<entry key='skirmish.economic.tooltip'>Legyél az első, aki eléri a megadott kreditszintet. A csoportok összes pénze számít.</entry>
 	<entry key='skirmish.technology'>Technológia általi győzelem</entry>
 	<entry key='skirmish.technology.tooltip'>Legyél az első, aki kifejleszti az összes technológiát.</entry>
 	<entry key='skirmish.social'>Szociális győzelem</entry>
@@ -3025,7 +3025,7 @@
 	<entry key='skirmish.objectives.occupation'>Megszállásos győzelem</entry>
 	<entry key='skirmish.objectives.occupation.desc'>Hódítsd meg vagy kolonizáld a galaxis %d%%-át, majd tarts a tulajdonodban %d napig.</entry>
 	<entry key='skirmish.objectives.technology'>Technológiai győzelem</entry>
-	<entry key='skirmish.objectives.technology.desc'>Legyél az első, aki az összes technológiáják kifejleszti.</entry>
+	<entry key='skirmish.objectives.technology.desc'>Legyél az első, aki az összes technológiáját kifejleszti.</entry>
 	<entry key='skirmish.objectives.social'>Szociális győzelem</entry>
 	<entry key='skirmish.objectives.social.desc'>Biztosítsd, hogy a morál legalább %d%% legalább %d darab bolygódon.</entry>
 	<entry key='win.load'>Betöltés...</entry>
@@ -3035,7 +3035,7 @@
 	<entry key='traits.infertile.desc'>Egyedülálló, gyermektelen vagy egy gyermekes életmód elfogadott a civilizációdban, %.0f%%-kal csökkentve ezáltal a populáció- növekedést. Az általad elfoglalt bolygókon is ez a szokás uralkodik el.</entry>
 	<entry key='traits.bank_mastery'>Mesteri bankrendszer</entry>
 	<entry key='traits.bank_mastery.desc'>A civilizációd a kerék előtt jóval fölfedezte már a részleges tartalék alapú bankolás módszerét, ezáltal %.0f%%-kal több adót és kereskedelmi bevételt kapsz.</entry>
-	<entry key='traits.monetary_analphabetism'>Pénzügyi analfabétizmus</entry>
+	<entry key='traits.monetary_analphabetism'>Pénzügyi analfabetizmus</entry>
 	<entry key='traits.monetary_analphabetism.desc'>A pénzügyminisztered, M. G., egy guru: adóelkerülés, munkanélküliség és feketegazdaság sújtja a birodalmadat. %.0f%%-kal kevesebb adót és kereskedelmi bevételt kapsz.</entry>
 	<entry key='traits.turtle'>Teknős</entry>
 	<entry key='traits.turtle.desc'>A fajod mindig is szeretett az erős védelemre koncentrálni. Emiatt az űrállomásaid, bolygópajzsaid és felszíni ágyúid %.0f%%-kal több sérülést bírnak ki.</entry>
@@ -3054,7 +3054,7 @@
 	<entry key='traits.master_astronomy'>Mesteri csillagászok</entry>
 	<entry key='traits.master_astronomy.desc'>Csillagászok, akik valószínűleg már nagyon unhatták a saját bolygójukat, teljesen feltérképezték a galaxist, valamint előkészítettek egy rakás műholdat a bolygók felderítéséhez. Megtalálod azokat a készletek között.</entry>
 	<entry key='traits.fantastic_negotiator'>Fantasztikus tárgyaló</entry>
-	<entry key='traits.fantastic_negotiator.desc'>A beszédkésséged még a leg keményszivűbb idegent is lenyűgözi. A tárgyalópartnereid %.0f%%-kal nagyobb valószínűséggel egyeznek bele a javaslataidba.</entry>
+	<entry key='traits.fantastic_negotiator.desc'>A beszédkészséged még a legkeményszívűbb idegent is lenyűgözi. A tárgyalópartnereid %.0f%%-kal nagyobb valószínűséggel egyeznek bele a javaslataidba.</entry>
 	<entry key='traits.undiplomatic'>Nem diplomatikus</entry>
 	<entry key='traits.undiplomatic.desc'>A diplomácia nem az erősséged. A tárgyalópartnereid, már csak ezért is, %.0f%%-kal kisebb eséllyel egyeznek bele a javaslataidba.</entry>
 	<entry key='traits.engineers'>Mérnökök</entry>
@@ -3294,12 +3294,12 @@
 
 	<entry key="multiplayer.error.connect_game">Nem sikerült csatlakozni a játékhoz: %s</entry>
 	<entry key="multiplayer.settings.host_player">Szervező</entry>
-	<entry key="autobuild.tooltip.CIVIL">[c=FFFFCC00]Civil épületeket, mint pl. lakóházakat, élelmiszergyárakat vagy kórházakat épít vagy fejleszt.[/c][n]Szükség esetén új erőművet épít vagy meglévőt fejleszt.[n]Ezt a beállítást akkor érdemes használni, ha lakosság ígényeit szeretnénk kielégítve tartani.[n]Hogy takarékoskodjon a hellyel, általában fejlesztést csinál, mielőtt újat építene valamiből.</entry>
+	<entry key="autobuild.tooltip.CIVIL">[c=FFFFCC00]Civil épületeket, mint pl. lakóházakat, élelmiszergyárakat vagy kórházakat épít vagy fejleszt.[/c][n]Szükség esetén új erőművet épít vagy meglévőt fejleszt.[n]Ezt a beállítást akkor érdemes használni, ha lakosság igényeit szeretnénk kielégítve tartani.[n]Hogy takarékoskodjon a hellyel, általában fejlesztést csinál, mielőtt újat építene valamiből.</entry>
 	<entry key="autobuild.tooltip.ECONOMIC">[c=FFFFCC00]Gazdasági épületeket, mint pl. űrkikötőt, bankot és más pénzügyi épületet épít vagy fejleszt.[/c][n]Szükség esetén új erőművet épít vagy meglévőt fejleszt.[n]Érdemes akkor használni, ha minden kolóniánkon fel akarjuk építtetni/felfejlesztetni ezeket az épületeket.</entry>
-	<entry key="autobuild.tooltip.FACTORY">[c=FFFFCC00]Builds and upgrades factory buildings: spaceship-, equipment- and weapons factories.[/c][n]Szükség esetén új erőművet épít vagy meglévőt fejleszt.[n]Érdemes akkor használni, ha minden kolóniánkon fel akarjuk építtetni/felfejlesztetni ezeket az épületeket.</entry>
-	<entry key="autobuild.tooltip.SOCIAL">[c=FFFFCC00]Builds morale-boosting buildings, such as church, police, bar, stadium, etc.[/c][n]Szükség esetén új erőművet épít vagy meglévőt fejleszt.[n]Érdemes akkor használni, ha minden kolóniánkon fel akarjuk építtetni ezeket az épületeket.</entry>
-	<entry key="autobuild.tooltip.UPGRADE">[c=FFFFCC00]Upgrades any upgradable buildings to their maximum (as money permits).[/c][n]Szükség esetén új erőművet épít vagy meglévőt fejleszt.[n]Érdemes akkor használni, ha minden kolóniánkon fel akarjuk fejlesztetni ezeket az épületeket.</entry>
-	<entry key="autobuild.tooltip.AI">[c=FFFFCC00]Minden menedzsment feladatot ellát:[/c][n]- a lakosság ígényeinek megfelelően épít vagy fejleszt épületeket, beleértve a speciális ígényeket, úgymint Stadion vagy Tűzoltóság,[n]- erőművet épít vagy fejleszt, illetve lecseréli őket hatékonyabbra, amint lehet,[n]- gyárakat és gazdasági épületeket épít és maximumra fejleszt,[n]- morál fokozó épületeket épít, pl. Bár vagy Templom,[n]- Katonai űrkikötőt épít,[n]- radart, pajzsot, laktanyát és űrvédelmi ágyúkat épít, illetve lecseréli őket, ha jobb változat elérhető[n]- Tankokat, vadászokat és űrállomásokat telepít teljes kapacitásra, illetve jobbra cseréli ezeket, amint lehet[n]- állít az adózás mértékén, hogy a polgárok viszonylag jókedvűek legyenek, de igyekszik minél több adót beszedni[n][n][c=FFFFCC00]Megjegyzések és figyelmeztetések:[/c][n]- A járműveket 2/3 tank, 1/3 rakétás plusz 1-1 speciális egység összeállításban telepíti.[n]- Gyártási feladatokat hoz létre, ami belezavarhat a játékos korábbi gyártási tervébe![n]- Orbitális gyárat épít, ha nincs egy se a birodalomban.[n]- Ha több bolygón is ez a mód van bekapcsolva, a bolygókat a problémáik súlyossága szerint menedzseli.</entry>
+	<entry key="autobuild.tooltip.FACTORY">[c=FFFFCC00]Gyártóépületeket épít és fejleszt: űrhajó-, felszerelés- és fegyvergyárakat.[/c][n]Szükség esetén új erőművet épít vagy meglévőt fejleszt.[n]Érdemes akkor használni, ha minden kolóniánkon fel akarjuk építtetni/felfejlesztetni ezeket az épületeket.</entry>
+	<entry key="autobuild.tooltip.SOCIAL">[c=FFFFCC00]Moráljavító épületeket épít, mint például templom, rendőrség, bár, stadion, stb.[/c][n]Szükség esetén új erőművet épít vagy meglévőt fejleszt.[n]Érdemes akkor használni, ha minden kolóniánkon fel akarjuk építtetni ezeket az épületeket.</entry>
+	<entry key="autobuild.tooltip.UPGRADE">[c=FFFFCC00]Minden fejleszthető épületet a maximumra fejleszt (ameddig a pénz engedi).[/c][n]Szükség esetén új erőművet épít vagy meglévőt fejleszt.[n]Érdemes akkor használni, ha minden kolóniánkon fel akarjuk fejlesztetni ezeket az épületeket.</entry>
+	<entry key="autobuild.tooltip.AI">[c=FFFFCC00]Minden menedzsment feladatot ellát:[/c][n]- a lakosság igényeinek megfelelően épít vagy fejleszt épületeket, beleértve a speciális igényeket, úgymint Stadion vagy Tűzoltóság,[n]- erőművet épít vagy fejleszt, illetve lecseréli őket hatékonyabbra, amint lehet,[n]- gyárakat és gazdasági épületeket épít és maximumra fejleszt,[n]- morál fokozó épületeket épít, pl. Bár vagy Templom,[n]- Katonai űrkikötőt épít,[n]- radart, pajzsot, laktanyát és űrvédelmi ágyúkat épít, illetve lecseréli őket, ha jobb változat elérhető[n]- Tankokat, vadászokat és űrállomásokat telepít teljes kapacitásra, illetve jobbra cseréli ezeket, amint lehet[n]- állít az adózás mértékén, hogy a polgárok viszonylag jókedvűek legyenek, de igyekszik minél több adót beszedni[n][n][c=FFFFCC00]Megjegyzések és figyelmeztetések:[/c][n]- A járműveket 2/3 tank, 1/3 rakétás plusz 1-1 speciális egység összeállításban telepíti.[n]- Gyártási feladatokat hoz létre, ami belezavarhat a játékos korábbi gyártási tervébe![n]- Orbitális gyárat épít, ha nincs egy se a birodalomban.[n]- Ha több bolygón is ez a mód van bekapcsolva, a bolygókat a problémáik súlyossága szerint menedzseli.</entry>
 	<entry key="settings.ai_autobuild_production">Az MI felügyelt bolygók gyárthatnak</entry>
 	<entry key="info.military_spaceport.tooltip">A bolygón működő Katonai Űrkikötő található</entry>
 	<entry key='profiles.create_new'>Új profil létrehozása:</entry>
@@ -3353,7 +3353,7 @@
 	<entry key='info.planetlist_LABS'>Kutatókp.</entry>	
 	<entry key='info.details_TRADE_CENTER'>Ker.kp.</entry>
 	<entry key='info.planetlist_TRADE_CENTER'>Ker.kp.</entry>	
-	<entry key="info.planetlist.tooltip">Az utolsó oszlop által megjelenítendő részlet kiválasztása[n][c=FFFFFFFF]Bal kattintásk[/c]: következő részlet[n][c=FFFFFFFF]Jobb kattintás[/c]: előző részlet</entry>
+	<entry key="info.planetlist.tooltip">Az utolsó oszlop által megjelenítendő részlet kiválasztása[n][c=FFFFFFFF]Bal kattintás[/c]: következő részlet[n][c=FFFFFFFF]Jobb kattintás[/c]: előző részlet</entry>
 	<entry key="message.planet_colonized">A(z) %s bolygót kolonizáltuk.</entry>
 	<entry key='skirmish.tax_base'>Alap adóbevétel:</entry>
 	<entry key='skirmish.tax_scale'>Adóbevétel szorzó:</entry>
@@ -3367,7 +3367,7 @@
 	<entry key='tech.garthogfighter2.description'>Más fajok jobb vadászokkal rendelkeznek, mint gondoltuk. Ez a verzió sokat segíthet a védekezésben.</entry>
 	<entry key='tech.garthogfighter3.name'>Garthog Vadász 3</entry>
 	<entry key='tech.garthogfighter3.longname'>Garthog Vadász Mk3</entry>
-	<entry key='tech.garthogfighter3.description'>A továbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
+	<entry key='tech.garthogfighter3.description'>A továbbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
 	<entry key='tech.garthogfighter4.name'>Garthog Vadász 4</entry>
 	<entry key='tech.garthogfighter4.longname'>Garthog Vadász Mk4</entry>
 	<entry key='tech.garthogfighter4.description'>A Dargslanok elleni támadásra és védekezésre kifejlesztett vadász.</entry>
@@ -3379,7 +3379,7 @@
 	<entry key='tech.garthogdestroyer2.description'>Jobb fegyverek és ágyúk, jobb hiperhajtómű.</entry>
 	<entry key='tech.garthogdestroyer3.name'>Garthog Romb. 3</entry>
 	<entry key='tech.garthogdestroyer3.longname'>Garthog Romboló Mk3</entry>
-	<entry key='tech.garthogdestroyer3.description'>Mégjobb fegyverek és hajtóművek, plusz radar.</entry>
+	<entry key='tech.garthogdestroyer3.description'>Még jobb fegyverek és hajtóművek, plusz radar.</entry>
 	<entry key='tech.garthogdestroyer4.name'>Garthog Romb. 4</entry>
 	<entry key='tech.garthogdestroyer4.longname'>Garthog Romboló Mk4</entry>
 	<entry key='tech.garthogdestroyer4.description'>A legerősebb Garthog romboló típus a legjobb fegyvereknek és hajtóműveknek, valamint rakéta-tárolók.</entry>	
@@ -3392,7 +3392,7 @@
 	<entry key='tech.garthogbattleship3.name'>Garthog Csh. 3</entry>
 	<entry key='tech.garthogbattleship3.longname'>Garthog Csatahajó Mk3</entry>
 	<entry key='tech.garthogbattleship3.description'>A Garthog flotta legerősebb csatahajója kiváló tűzerővel, védelmi- és csapatszállító képességekkel.</entry>	
-	<entry key='skirmish.galaxy_seed'>Véletlenszám:</entry>
+	<entry key='skirmish.galaxy_seed'>Véletlen szám:</entry>
 	<entry key='skirmish.reseed'>Új</entry>
 	<entry key='skirmish.no_economic_limit'>Korlátlan számú gazdasági épület bolygónként</entry>
 	<entry key='skirmish.other'>Egyéb beállítások</entry>
@@ -3412,7 +3412,7 @@
 	<entry key='tech.dargslanfighter2.description'>Más fajok jobb vadászokkal rendelkeznek, mint gondoltuk. Ez a verzió sokat segíthet a védekezésben.</entry>
 	<entry key='tech.dargslanfighter3.name'>Dargslan Vdsz. 3</entry>
 	<entry key='tech.dargslanfighter3.longname'>Dargslan Vadász Mk3</entry>
-	<entry key='tech.dargslanfighter3.description'>A továbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
+	<entry key='tech.dargslanfighter3.description'>A továbbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
 	<entry key='tech.dargslanfighter4.name'>Dargslan Vdsz. 4</entry>
 	<entry key='tech.dargslanfighter4.longname'>Dargslan Vadász Mk4</entry>
 	<entry key='tech.dargslanfighter4.description'>A Dargslanok elleni támadásra és védekezésre kifejlesztett vadász.</entry>
@@ -3424,7 +3424,7 @@
 	<entry key='tech.dargslandestroyer2.description'>Jobb fegyverek és ágyúk, jobb hiperhajtómű.</entry>
 	<entry key='tech.dargslandestroyer3.name'>Dargslan Romb. 3</entry>
 	<entry key='tech.dargslandestroyer3.longname'>Dargslan Romboló Mk3</entry>
-	<entry key='tech.dargslandestroyer3.description'>Mégjobb fegyverek és hajtóművek, plusz radar.</entry>
+	<entry key='tech.dargslandestroyer3.description'>Még jobb fegyverek és hajtóművek, plusz radar.</entry>
 	<entry key='tech.dargslandestroyer4.name'>Dargslan Romb. 4</entry>
 	<entry key='tech.dargslandestroyer4.longname'>Dargslan Romboló Mk4</entry>
 	<entry key='tech.dargslandestroyer4.description'>A legerősebb Dargslan romboló típus a legjobb fegyvereknek és hajtóműveknek, valamint rakéta-tárolók.</entry>	
@@ -3445,7 +3445,7 @@
 	<entry key='tech.morgathfighter2.description'>Más fajok jobb vadászokkal rendelkeznek, mint gondoltuk. Ez a verzió sokat segíthet a védekezésben.</entry>
 	<entry key='tech.morgathfighter3.name'>Morgath Vadász 3</entry>
 	<entry key='tech.morgathfighter3.longname'>Morgath Vadász Mk3</entry>
-	<entry key='tech.morgathfighter3.description'>A továbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
+	<entry key='tech.morgathfighter3.description'>A továbbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
 	<entry key='tech.morgathfighter4.name'>Morgath Vadász 4</entry>
 	<entry key='tech.morgathfighter4.longname'>Morgath Vadász Mk4</entry>
 	<entry key='tech.morgathfighter4.description'>A Dargslanok elleni támadásra és védekezésre kifejlesztett vadász.</entry>
@@ -3457,7 +3457,7 @@
 	<entry key='tech.morgathdestroyer2.description'>Jobb fegyverek és ágyúk, jobb hiperhajtómű.</entry>
 	<entry key='tech.morgathdestroyer3.name'>Morgath Romb. 3</entry>
 	<entry key='tech.morgathdestroyer3.longname'>Morgath Romboló Mk3</entry>
-	<entry key='tech.morgathdestroyer3.description'>Mégjobb fegyverek és hajtóművek, plusz radar.</entry>
+	<entry key='tech.morgathdestroyer3.description'>Még jobb fegyverek és hajtóművek, plusz radar.</entry>
 	<entry key='tech.morgathdestroyer4.name'>Morgath Romb. 4</entry>
 	<entry key='tech.morgathdestroyer4.longname'>Morgath Romboló Mk4</entry>
 	<entry key='tech.morgathdestroyer4.description'>A legerősebb Morgath romboló típus a legjobb fegyvereknek és hajtóműveknek, valamint rakéta-tárolók.</entry>	
@@ -3478,7 +3478,7 @@
 	<entry key='tech.ecalepfighter2.description'>Más fajok jobb vadászokkal rendelkeznek, mint gondoltuk. Ez a verzió sokat segíthet a védekezésben.</entry>
 	<entry key='tech.ecalepfighter3.name'>Ecalep Vadász 3</entry>
 	<entry key='tech.ecalepfighter3.longname'>Ecalep Vadász Mk3</entry>
-	<entry key='tech.ecalepfighter3.description'>A továbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
+	<entry key='tech.ecalepfighter3.description'>A továbbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
 	<entry key='tech.ecalepfighter4.name'>Ecalep Vadász 4</entry>
 	<entry key='tech.ecalepfighter4.longname'>Ecalep Vadász Mk4</entry>
 	<entry key='tech.ecalepfighter4.description'>A Dargslanok elleni támadásra és védekezésre kifejlesztett vadász.</entry>
@@ -3490,7 +3490,7 @@
 	<entry key='tech.ecalepdestroyer2.description'>Jobb fegyverek és ágyúk, jobb hiperhajtómű.</entry>
 	<entry key='tech.ecalepdestroyer3.name'>Ecalep Romb. 3</entry>
 	<entry key='tech.ecalepdestroyer3.longname'>Ecalep Romboló Mk3</entry>
-	<entry key='tech.ecalepdestroyer3.description'>Mégjobb fegyverek és hajtóművek, plusz radar.</entry>
+	<entry key='tech.ecalepdestroyer3.description'>Még jobb fegyverek és hajtóművek, plusz radar.</entry>
 	<entry key='tech.ecalepdestroyer4.name'>Ecalep Romb. 4</entry>
 	<entry key='tech.ecalepdestroyer4.longname'>Ecalep Romboló Mk4</entry>
 	<entry key='tech.ecalepdestroyer4.description'>A legerősebb Ecalep romboló típus a legjobb fegyvereknek és hajtóműveknek, valamint rakéta-tárolók.</entry>	
@@ -3511,7 +3511,7 @@
 	<entry key='tech.sullepfighter2.description'>Más fajok jobb vadászokkal rendelkeznek, mint gondoltuk. Ez a verzió sokat segíthet a védekezésben.</entry>
 	<entry key='tech.sullepfighter3.name'>Sullep Vadász 3</entry>
 	<entry key='tech.sullepfighter3.longname'>Sullep Vadász Mk3</entry>
-	<entry key='tech.sullepfighter3.description'>A továbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
+	<entry key='tech.sullepfighter3.description'>A továbbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
 	<entry key='tech.sullepfighter4.name'>Sullep Vadász 4</entry>
 	<entry key='tech.sullepfighter4.longname'>Sullep Vadász Mk4</entry>
 	<entry key='tech.sullepfighter4.description'>A Dargslanok elleni támadásra és védekezésre kifejlesztett vadász.</entry>
@@ -3523,7 +3523,7 @@
 	<entry key='tech.sullepdestroyer2.description'>Jobb fegyverek és ágyúk, jobb hiperhajtómű.</entry>
 	<entry key='tech.sullepdestroyer3.name'>Sullep Romb. 3</entry>
 	<entry key='tech.sullepdestroyer3.longname'>Sullep Romboló Mk3</entry>
-	<entry key='tech.sullepdestroyer3.description'>Mégjobb fegyverek és hajtóművek, plusz radar.</entry>
+	<entry key='tech.sullepdestroyer3.description'>Még jobb fegyverek és hajtóművek, plusz radar.</entry>
 	<entry key='tech.sullepdestroyer4.name'>Sullep Romb. 4</entry>
 	<entry key='tech.sullepdestroyer4.longname'>Sullep Romboló Mk4</entry>
 	<entry key='tech.sullepdestroyer4.description'>A legerősebb Sullep romboló típus a legjobb fegyvereknek és hajtóműveknek, valamint rakéta-tárolók.</entry>	
@@ -3544,7 +3544,7 @@
 	<entry key='tech.ychomfighter2.description'>Más fajok jobb vadászokkal rendelkeznek, mint gondoltuk. Ez a verzió sokat segíthet a védekezésben.</entry>
 	<entry key='tech.ychomfighter3.name'>Ychom Vadász 3</entry>
 	<entry key='tech.ychomfighter3.longname'>Ychom Vadász Mk3</entry>
-	<entry key='tech.ychomfighter3.description'>A továbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
+	<entry key='tech.ychomfighter3.description'>A továbbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
 	<entry key='tech.ychomfighter4.name'>Ychom Vadász 4</entry>
 	<entry key='tech.ychomfighter4.longname'>Ychom Vadász Mk4</entry>
 	<entry key='tech.ychomfighter4.description'>A Dargslanok elleni támadásra és védekezésre kifejlesztett vadász.</entry>
@@ -3556,7 +3556,7 @@
 	<entry key='tech.ychomdestroyer2.description'>Jobb fegyverek és ágyúk, jobb hiperhajtómű.</entry>
 	<entry key='tech.ychomdestroyer3.name'>Ychom Romb. 3</entry>
 	<entry key='tech.ychomdestroyer3.longname'>Ychom Romboló Mk3</entry>
-	<entry key='tech.ychomdestroyer3.description'>Mégjobb fegyverek és hajtóművek, plusz radar.</entry>
+	<entry key='tech.ychomdestroyer3.description'>Még jobb fegyverek és hajtóművek, plusz radar.</entry>
 	<entry key='tech.ychomdestroyer4.name'>Ychom Romb. 4</entry>
 	<entry key='tech.ychomdestroyer4.longname'>Ychom Romboló Mk4</entry>
 	<entry key='tech.ychomdestroyer4.description'>A legerősebb Ychom romboló típus a legjobb fegyvereknek és hajtóműveknek, valamint rakéta-tárolók.</entry>	
@@ -3569,39 +3569,39 @@
 	<entry key='tech.ychombattleship3.name'>Ychom Csh. 3</entry>
 	<entry key='tech.ychombattleship3.longname'>Ychom Csatahajó Mk3</entry>
 	<entry key='tech.ychombattleship3.description'>A Ychom flotta legerősebb csatahajója kiváló tűzerővel, védelmi- és csapatszállító képességekkel.</entry>	
-﻿	<entry key='tech.dribsfighter1.name'>Dribs Vadász 1</entry>
-	<entry key='tech.dribsfighter1.longname'>Dribs Vadász Mk1</entry>
+﻿	<entry key='tech.dribsfighter1.name'>Drib Vadász 1</entry>
+	<entry key='tech.dribsfighter1.longname'>Drib Vadász Mk1</entry>
 	<entry key='tech.dribsfighter1.description'>A Galaktikus Birodalommal húzódó háború szükségessé tette egy erősebb vadász kifejlesztését.</entry>
-	<entry key='tech.dribsfighter2.name'>Dribs Vadász 2</entry>
-	<entry key='tech.dribsfighter2.longname'>Dribs Vadász Mk2</entry>
+	<entry key='tech.dribsfighter2.name'>Drib Vadász 2</entry>
+	<entry key='tech.dribsfighter2.longname'>Drib Vadász Mk2</entry>
 	<entry key='tech.dribsfighter2.description'>Más fajok jobb vadászokkal rendelkeznek, mint gondoltuk. Ez a verzió sokat segíthet a védekezésben.</entry>
-	<entry key='tech.dribsfighter3.name'>Dribs Vadász 3</entry>
-	<entry key='tech.dribsfighter3.longname'>Dribs Vadász Mk3</entry>
-	<entry key='tech.dribsfighter3.description'>A továbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
-	<entry key='tech.dribsfighter4.name'>Dribs Vadász 4</entry>
-	<entry key='tech.dribsfighter4.longname'>Dribs Vadász Mk4</entry>
+	<entry key='tech.dribsfighter3.name'>Drib Vadász 3</entry>
+	<entry key='tech.dribsfighter3.longname'>Drib Vadász Mk3</entry>
+	<entry key='tech.dribsfighter3.description'>A továbbfejlesztett 3-as verziójú vadász segítségével könnyebben győzhetünk más fajok felett.</entry>
+	<entry key='tech.dribsfighter4.name'>Drib Vadász 4</entry>
+	<entry key='tech.dribsfighter4.longname'>Drib Vadász Mk4</entry>
 	<entry key='tech.dribsfighter4.description'>A Dargslanok elleni támadásra és védekezésre kifejlesztett vadász.</entry>
-	<entry key='tech.dribsdestroyer1.name'>Dribs Romb. 1</entry>
-	<entry key='tech.dribsdestroyer1.longname'>Dribs Romboló Mk1</entry>
+	<entry key='tech.dribsdestroyer1.name'>Drib Romb. 1</entry>
+	<entry key='tech.dribsdestroyer1.longname'>Drib Romboló Mk1</entry>
 	<entry key='tech.dribsdestroyer1.description'>Megnövelt tűzerő és pajzzsal rendelkező romboló.</entry>
-	<entry key='tech.dribsdestroyer2.name'>Dribs Romb. 2</entry>
-	<entry key='tech.dribsdestroyer2.longname'>Dribs Romboló Mk2</entry>
+	<entry key='tech.dribsdestroyer2.name'>Drib Romb. 2</entry>
+	<entry key='tech.dribsdestroyer2.longname'>Drib Romboló Mk2</entry>
 	<entry key='tech.dribsdestroyer2.description'>Jobb fegyverek és ágyúk, jobb hiperhajtómű.</entry>
-	<entry key='tech.dribsdestroyer3.name'>Dribs Romb. 3</entry>
-	<entry key='tech.dribsdestroyer3.longname'>Dribs Romboló Mk3</entry>
-	<entry key='tech.dribsdestroyer3.description'>Mégjobb fegyverek és hajtóművek, plusz radar.</entry>
-	<entry key='tech.dribsdestroyer4.name'>Dribs Romb. 4</entry>
-	<entry key='tech.dribsdestroyer4.longname'>Dribs Romboló Mk4</entry>
-	<entry key='tech.dribsdestroyer4.description'>A legerősebb Dribs romboló típus a legjobb fegyvereknek és hajtóműveknek, valamint rakéta-tárolók.</entry>	
-	<entry key='tech.dribsbattleship1.name'>Dribs Csh. 1</entry>
-	<entry key='tech.dribsbattleship1.longname'>Dribs Csatahajó Mk1</entry>
+	<entry key='tech.dribsdestroyer3.name'>Drib Romb. 3</entry>
+	<entry key='tech.dribsdestroyer3.longname'>Drib Romboló Mk3</entry>
+	<entry key='tech.dribsdestroyer3.description'>Még jobb fegyverek és hajtóművek, plusz radar.</entry>
+	<entry key='tech.dribsdestroyer4.name'>Drib Romb. 4</entry>
+	<entry key='tech.dribsdestroyer4.longname'>Drib Romboló Mk4</entry>
+	<entry key='tech.dribsdestroyer4.description'>A legerősebb Drib romboló típus a legjobb fegyvereknek és hajtóműveknek, valamint rakéta-tárolók.</entry>	
+	<entry key='tech.dribsbattleship1.name'>Drib Csh. 1</entry>
+	<entry key='tech.dribsbattleship1.longname'>Drib Csatahajó Mk1</entry>
 	<entry key='tech.dribsbattleship1.description'>Normálisan felszerelt csatahajó, hogy szembeszállhasson a Galaktikus birodalom csatahajójával.</entry>
-	<entry key='tech.dribsbattleship2.name'>Dribs Csh. 2</entry>
-	<entry key='tech.dribsbattleship2.longname'>Dribs Csatahajó Mk2</entry>
+	<entry key='tech.dribsbattleship2.name'>Drib Csh. 2</entry>
+	<entry key='tech.dribsbattleship2.longname'>Drib Csatahajó Mk2</entry>
 	<entry key='tech.dribsbattleship2.description'>Nagyobb tűzerő és jobb védelem a Mk1-hez képest. Több földi egység szállítására képes.</entry>
-	<entry key='tech.dribsbattleship3.name'>Dribs Csh. 3</entry>
-	<entry key='tech.dribsbattleship3.longname'>Dribs Csatahajó Mk3</entry>
-	<entry key='tech.dribsbattleship3.description'>A Dribs flotta legerősebb csatahajója kiváló tűzerővel, védelmi- és csapatszállító képességekkel.</entry>	
+	<entry key='tech.dribsbattleship3.name'>Drib Csh. 3</entry>
+	<entry key='tech.dribsbattleship3.longname'>Drib Csatahajó Mk3</entry>
+	<entry key='tech.dribsbattleship3.description'>A Drib flotta legerősebb csatahajója kiváló tűzerővel, védelmi- és csapatszállító képességekkel.</entry>	
 	<entry key='equipment.all.tooltip'>Minden elem</entry>
 	<entry key='equipment.weapons.tooltip'>Fegyverek</entry>
 	<entry key='equipment.equipment.tooltip'>Felszerelés</entry>
