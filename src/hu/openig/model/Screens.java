@@ -75,7 +75,7 @@ public enum Screens {
     STATUSBAR,
     /** Full screen movie playback. */
     MOVIE,
-    /** The phsychologist test screen. */
+    /** The psychologist test screen. */
     TEST,
     /** The game over screen. */
     GAME_OVER,

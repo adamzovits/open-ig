@@ -98,10 +98,10 @@
 	<entry key='database.map.4.title'>A Thorin zászlóshajó térképe</entry>
 	<entry key='database.map.5.title'>A Thorin zászlóshajó térképe</entry>
 	
-	<entry key='bar.phsychologist.101'>Üdvözlöm, doktornő. Tudna rám fordítani egy kis időt?</entry>
-	<entry key='bar.phsychologist.111'>Szeretném, ha mesélne arról a tesztről, amit ki kellett töltenem.</entry>
-	<entry key='bar.phsychologist.112'>Van egy-két érdekes álmom, ami megfejtésre vár...</entry>
-	<entry key='bar.phsychologist.121'>Köszönöm, hogy szakított rám egy kis időt. Most mennem kell.</entry>
+	<entry key='bar.psychologist.101'>Üdvözlöm, doktornő. Tudna rám fordítani egy kis időt?</entry>
+	<entry key='bar.psychologist.111'>Szeretném, ha mesélne arról a tesztről, amit ki kellett töltenem.</entry>
+	<entry key='bar.psychologist.112'>Van egy-két érdekes álmom, ami megfejtésre vár...</entry>
+	<entry key='bar.psychologist.121'>Köszönöm, hogy szakított rám egy kis időt. Most mennem kell.</entry>
 	<entry key='bar.brian.301'>Üdvözlöm, Brian. Hogy lehet, hogy ön vezető technikus ilyen fiatalon?</entry>
 	<entry key='bar.brian.311'>Nem is tudtam, hogy haditechnikai szakértővel van dolgom...</entry>
 	<entry key='bar.brian.312'>Maga szerint foglalkoznak még robotkutatással?</entry>
@@ -2135,7 +2135,7 @@
 	<entry key='mission-15.kelly'>Menj a bárba és beszélj Kellyvel a kémről</entry>
 	<entry key='Empire.main_fleet'>Főflotta</entry>
 	<entry key='bar.start_talking'>Kattints, hogy beszélgethess %s.</entry>
-	<entry key='phsychologist'>Dr. Mitchell-lel</entry>
+	<entry key='psychologist'>Dr. Mitchell-lel</entry>
 	<entry key='kelly'>Kellyvel</entry>
 	<entry key='brian'>Briannal</entry>
 	<entry key='doctor'>a Doktorral</entry>

@@ -759,7 +759,7 @@
   <entry key='messages.New Caroline'>New Caroline</entry>
   <entry key='messages.San Sterling'>San Sterling</entry>
   <entry key='messages.douglas'>Cmd. Douglas</entry>
-  <entry key='phsychologist'>Dr. Reinhart</entry>
+  <entry key='psychologist'>Dr. Reinhart</entry>
   <entry key='players.dribs'>Dribs Empire</entry>
   <entry key='players.free_nations'>Free Nations</entry>
   <entry key='players.free_nations.short'>Free Nations</entry>
@@ -2013,7 +2013,7 @@
   <entry key='mission-3.escort_carrier.desc'>Ensure that the carrier is not destroyed.</entry>
   <entry key='test.q5.a1'>Nothing compares to a well authored poem.</entry>
   <entry key='message.research_money'>Research of %s stopped due lack of money.</entry>
-  <entry key='bar.phsychologist.121'>Thank You for Your time. I have to go now.</entry>
+  <entry key='bar.psychologist.121'>Thank You for Your time. I have to go now.</entry>
   <entry key='battlefinish.planet_destroyed'>The battle completely destroyed planet %s.</entry>
   <entry key='chat.m2.merchant3.n0'>Cease fire! Leave the merchant ship alone!</entry>
   <entry key='chat.m3.n0'>O.K. pirates, retreat while you still can!</entry>
@@ -2034,7 +2034,7 @@
   <entry key='diplomacy.Garthog.TRADE.NEUTRAL.46'>We can try, but don&#39;t even try to fool us.</entry>
   <entry key='achievement.apeh.desc'>All your colonies have above 95% tax morale</entry>
   <entry key='achievement.dargslayer.desc'>You eliminated all Dargslan from the galaxy</entry>
-  <entry key='bar.phsychologist.101'>Hello Doctor. Do You have some time for me?</entry>
+  <entry key='bar.psychologist.101'>Hello Doctor. Do You have some time for me?</entry>
   <entry key='chat.m10.n0'>O.K. Garthogs, retreat while you still can!</entry>
   <entry key='chat.m12.r1'>Don&#39;t shoot! Don&#39;t shoot! I&#39;ll turn around!</entry>
   <entry key='chat.m13.n0'>O.K. Garthogs, retreat while you still can!</entry>
@@ -2093,7 +2093,7 @@
   <entry key='skirmish.technology.tooltip'>Be the first who researches all technologies.</entry>
   <entry key='achievement.all_seeing_eye.desc'>At least 80% of the galaxy is covered by radar</entry>
   <entry key='bar.doctor.421'>I&#39;m interested in the research going on Earth.</entry>
-  <entry key='bar.phsychologist.112'>I have some dreams which need rectification...</entry>
+  <entry key='bar.psychologist.112'>I have some dreams which need rectification...</entry>
   <entry key='chat.m2.merchant1.n1'>Really? I think we&#39;ve got something for you...</entry>
   <entry key='chat.m2.merchant5.n1'>Really? I think we&#39;ve got something for you...</entry>
   <entry key='diplomacy.Dribs.MONEY.YES.38'>Your generosity shines like a beacon in space.</entry>
@@ -2262,7 +2262,7 @@
   <entry key='diplomacy.FreeTraders.TRADE.YES.45'>The Executive Group has decided to accept your proposal.</entry>
   <entry key='mission-8.go_to_bar'>Go to the bar and talk to Dr. Reinhart about your vision</entry>
   <entry key='chat.vo.4.n8'>All right, but you are responsible for the consequences.</entry>
-  <entry key='bar.phsychologist.111'>I&#39;d like You to tell me about the test I had to complete.</entry>
+  <entry key='bar.psychologist.111'>I&#39;d like You to tell me about the test I had to complete.</entry>
   <entry key='diplomacy.Ychom.DIPLOMATIC_RELATIONS.NEUTRAL.YES.21'>The Empire has much to offer us, we accept your proposal.</entry>
   <entry key='diplomacy.Dribs.DIPLOMATIC_RELATIONS.NEUTRAL.MAYBE.24'>There is a possibility of closer relations in the future.</entry>
   <entry key='diplomacy.Dribs.terminate.72'>I must attend to other matters, we will speak again soon.</entry>
@@ -2504,7 +2504,7 @@
   <entry key='diplomacy.Ecalep.SURRENDER.75'>Congress hopes the Empire will be gracious in its victory. We surrender.</entry>
   <entry key='diplomacy.FreeTraders.DIPLOMATIC_RELATIONS.AGGRESSIVE.NO.36'>The Executive Group regrets that this time we must reject your proposal.</entry>
   <entry key='diplomacy.FreeTraders.MONEY.37'>The Empire is interested in investing %s credits in Alliance industries.</entry>
-  <entry key='mission-8.test.desc'>Go to the bridge and complete Dr. Catherine Reinhart&#39;s phsychology test.</entry>
+  <entry key='mission-8.test.desc'>Go to the bridge and complete Dr. Catherine Reinhart&#39;s psychology test.</entry>
   <entry key='diplomacy.Garthog.DIPLOMATIC_RELATIONS.HUMBLE.34'>If I were you, I would return my admiralty mandate, you puny little dog.</entry>
   <entry key='chat.m4.n1'>-pirate1- I can&#39;t hold them off much longer! Please help! I&#39;ll be killed!</entry>
   <entry key='chat.merchant7.n6'>So you want to get away without fighting? What are you, chicken or McFly?</entry>

@@ -179,10 +179,10 @@
   <entry key='bar.kelly.022'>Des aliens infiltrés sur le vaisseau ?</entry>
   <entry key='bar.kelly.032'>Quelqu&#39;un est sorti en courant de ma cabine. On m&#39;espionne...</entry>
   <entry key='bar.kelly.041'>Merci du conseil, Kelly.</entry>
-  <entry key='bar.phsychologist.101'>Bonjour docteur. Avez-vous un peu de temps pour moi?</entry>
-  <entry key='bar.phsychologist.111'>Je voulais vous parler du test.</entry>
-  <entry key='bar.phsychologist.112'>Je fais des rêves troublants...</entry>
-  <entry key='bar.phsychologist.121'>Merci pour votre temps. Je dois vous laisser.</entry>
+  <entry key='bar.psychologist.101'>Bonjour docteur. Avez-vous un peu de temps pour moi?</entry>
+  <entry key='bar.psychologist.111'>Je voulais vous parler du test.</entry>
+  <entry key='bar.psychologist.112'>Je fais des rêves troublants...</entry>
+  <entry key='bar.psychologist.121'>Merci pour votre temps. Je dois vous laisser.</entry>
   <entry key='bar.start_talking'>Cliquez pour commencer une conversation avec %s.</entry>
   <entry key='battle.selectall.tooltip'>[c=FFFFFFFF]Left mouse button, CTRL+A[/c]: Select all units[n][c=FFFFFFFF]Right mouse button[/c]: Deselect all units</entry>
   <entry key='battle.selectgroup.tooltip'>[c=FFFFFFFF]Left mouse button, SHIFT+%1$d[/c]: Select group %1$d[n][c=FFFFFFFF]Right mouse button[/c]: Dismiss group %1$d</entry>
@@ -2319,7 +2319,7 @@
   <entry key='othersettings.tile_cache_building_enabled'>Cache building tiles</entry>
   <entry key='othersettings.tile_cache_enabled'>Tile caching, cache shades:</entry>
   <entry key='othersettings.title'>Autres réglages</entry>
-  <entry key='phsychologist'>Dr. Reinhart</entry>
+  <entry key='psychologist'>Dr. Reinhart</entry>
   <entry key='pirates.fleet_name'>Pirates</entry>
   <entry key='planet.colonizable'>Vide et colonisable</entry>
   <entry key='planet.install_satellite_1'>Installez un satellite</entry>

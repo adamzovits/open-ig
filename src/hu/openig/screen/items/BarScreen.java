@@ -136,7 +136,7 @@ public class BarScreen extends WalkableScreen {
         /** The talk screen for level 3 brian. */
         BufferedImage talkBrian;
         /** The talk screen for level 2 psychologist. */
-        BufferedImage talkPhsychologist;
+        BufferedImage talkPsychologist;
         /** The level 2 bar. */
         BufferedImage bar2;
         /** The level 3 bar. */
@@ -164,12 +164,12 @@ public class BarScreen extends WalkableScreen {
 
         }
         /** @return image of a person. */
-        BufferedImage phsychologist() {
-            if (talkPhsychologist == null) {
+        BufferedImage psychologist() {
+            if (talkPsychologist == null) {
 
-                talkPhsychologist = rl.getImage("bar/bar_phsychologist");
+                talkPsychologist = rl.getImage("bar/bar_psychologist");
             }
-            return talkPhsychologist;
+            return talkPsychologist;
 
         }
         /** @return image of a person. */
@@ -279,8 +279,8 @@ public class BarScreen extends WalkableScreen {
 
     /** @return Retrieve the talk image. */
     BufferedImage getTalk() {
-        if ("phsychologist".equals(world().currentTalk)) {
-            return images.phsychologist();
+        if ("psychologist".equals(world().currentTalk)) {
+            return images.psychologist();
         } else
             if ("kelly".equals(world().currentTalk)) {
             return images.kelly();

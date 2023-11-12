@@ -129,10 +129,10 @@
   <entry key='bar.kelly.022'>Полагаешь, что на борту корабля могут быть чужаки?</entry>
   <entry key='bar.kelly.032'>Я своими глазами видел кого-то, в спешке покидающего мою каюту.</entry>
   <entry key='bar.kelly.041'>Спасибо за совет, Келли.</entry>
-  <entry key='bar.phsychologist.101'>Здравствуйте, Доктор. Есть минутка?</entry>
-  <entry key='bar.phsychologist.111'>Хотел узнать о результатах моего теста.</entry>
-  <entry key='bar.phsychologist.112'>У меня бывают странные сны. Какая-то очень странная комната ....</entry>
-  <entry key='bar.phsychologist.121'>Спасибо Вам. Мне надо идти.</entry>
+  <entry key='bar.psychologist.101'>Здравствуйте, Доктор. Есть минутка?</entry>
+  <entry key='bar.psychologist.111'>Хотел узнать о результатах моего теста.</entry>
+  <entry key='bar.psychologist.112'>У меня бывают странные сны. Какая-то очень странная комната ....</entry>
+  <entry key='bar.psychologist.121'>Спасибо Вам. Мне надо идти.</entry>
   <entry key='bar.start_talking'>Клик мыши для начала разговора с %s.</entry>
   <entry key='battle.selectall.tooltip'>[c=FFFFFFFF]Left mouse button, CTRL+A[/c]: Select all units[n][c=FFFFFFFF]Right mouse button[/c]: Deselect all units</entry>
   <entry key='battle.selectgroup.tooltip'>[c=FFFFFFFF]Left mouse button, SHIFT+%1$d[/c]: Select group %1$d[n][c=FFFFFFFF]Right mouse button[/c]: Dismiss group %1$d</entry>
@@ -2141,7 +2141,7 @@
   <entry key='othersettings.tile_cache_building_enabled'>Кэшировать текстуры сооружений</entry>
   <entry key='othersettings.tile_cache_enabled'>Кешировать текстуры и тени:</entry>
   <entry key='othersettings.title'>Прочие настройки</entry>
-  <entry key='phsychologist'>Доктор Рейнхарт</entry>
+  <entry key='psychologist'>Доктор Рейнхарт</entry>
   <entry key='pirates.fleet_name'>Пиратский флот</entry>
   <entry key='planet.colonizable'>Необитаема - Можно колонизировать</entry>
   <entry key='planet.install_satellite_1'>Выведите на орбиту любой спутник</entry>

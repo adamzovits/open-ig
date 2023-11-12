@@ -26,7 +26,7 @@ public class BackgroundGFX {
     /** The difficulty backgrounds. */
     public BufferedImage[] difficulty;
     /** The test screen background. */
-    @Img(name = "phsychologist_test")
+    @Img(name = "psychologist_test")
     public BufferedImage test;
     /** The setup screen background. */
     @Img(name = "setup")

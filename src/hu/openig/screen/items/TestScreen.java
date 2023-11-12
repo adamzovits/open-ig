@@ -32,7 +32,7 @@ import java.awt.Shape;
 import java.awt.geom.AffineTransform;
 
 /**
- * The screen displaying the Phsychologist test.
+ * The screen displaying the Psychologist test.
  * @author akarnokd, 2011.04.20.
  */
 public class TestScreen extends ScreenBase {
@@ -106,7 +106,7 @@ public class TestScreen extends ScreenBase {
                 hideSecondary();
             }
         };
-        commons.playVideo("test/phsychologist_test_completed", new Action0() {
+        commons.playVideo("test/psychologist_test_completed", new Action0() {
             @Override
             public void invoke() {
                 hideSecondary();

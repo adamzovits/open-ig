@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * A question in the Phsychologist's test.
+ * A question in the Psychologist's test.
  * @author akarnokd, 2011.04.20.
  */
 public class TestQuestion {

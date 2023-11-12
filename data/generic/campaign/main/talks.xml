@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../schemas/talks.xsd">
 	<!-- Talk graphs in the bar -->
-	<talk with="phsychologist">
-		<state id="start" picture="bar/phsychologist_100">
-			<transition id="101" media="bar/phsychologist_101" text="bar.phsychologist.101" to="state101"/>
+	<talk with="psychologist">
+		<state id="start" picture="bar/psychologist_100">
+			<transition id="101" media="bar/psychologist_101" text="bar.psychologist.101" to="state101"/>
 		</state>
-		<state id="state101" picture="bar/phsychologist_101">
-			<transition id="111" media="bar/phsychologist_111" text="bar.phsychologist.111" to="state101"/>
-			<transition id="112" media="bar/phsychologist_112" text="bar.phsychologist.112" to="state101"/>
-			<transition id="121" media="bar/phsychologist_121" text="bar.phsychologist.121" to="end"/>
+		<state id="state101" picture="bar/psychologist_101">
+			<transition id="111" media="bar/psychologist_111" text="bar.psychologist.111" to="state101"/>
+			<transition id="112" media="bar/psychologist_112" text="bar.psychologist.112" to="state101"/>
+			<transition id="121" media="bar/psychologist_121" text="bar.psychologist.121" to="end"/>
 		</state>
 	</talk>
 	<talk with="kelly">

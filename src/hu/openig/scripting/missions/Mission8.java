@@ -39,7 +39,7 @@ public class Mission8 extends Mission {
         final Objective m8 = objective("Mission-8");
         if (checkMission("Mission-8")) {
             runWaiting = true;
-            world.env.playSound(SoundTarget.COMPUTER, SoundType.PHSYCHOLOGIST_WAITING, createWaiting(m8));
+            world.env.playSound(SoundTarget.COMPUTER, SoundType.PSYCHOLOGIST_WAITING, createWaiting(m8));
         }
         if (world.testCompleted && m8.state == ObjectiveState.ACTIVE) {
             setObjectiveState(m8, ObjectiveState.SUCCESS);
@@ -73,7 +73,7 @@ public class Mission8 extends Mission {
             world.env.playVideo("interlude/dream_3", new Action0() {
                 @Override
                 public void invoke() {
-                    world.currentTalk = "phsychologist";
+                    world.currentTalk = "psychologist";
                     showObjective("Mission-8-Task-1");
                     addMission("Mission-8-Task-1-Timeout", 2 * 24);
                     world.env.playMusic();
@@ -91,7 +91,7 @@ public class Mission8 extends Mission {
         }
     }
     /**
-     * Create the action to execute after the announcement of the phsychologist.
+     * Create the action to execute after the announcement of the psychologist.
      * @param m8 the mission 8
      * @return the action
      */
@@ -108,7 +108,7 @@ public class Mission8 extends Mission {
     }
     @Override
     public void onTalkCompleted() {
-        if ("phsychologist".equals(world.currentTalk)) {
+        if ("psychologist".equals(world.currentTalk)) {
             if (setObjectiveState("Mission-8-Task-1", ObjectiveState.SUCCESS)) {
                 clearMission("Mission-8-Task-1-Timeout");
                 addTimeout("Mission-8-Task-1-Hide", 13000);

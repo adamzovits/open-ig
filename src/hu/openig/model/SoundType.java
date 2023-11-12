@@ -62,7 +62,7 @@ public enum SoundType {
     /** Message indicator, longer, mentions the bridge. */
     NEW_MESSAGE_3("ui/new_message_3"),
     /** Sound. */
-    PHSYCHOLOGIST_WAITING("ui/phsychologist_waiting"),
+    PSYCHOLOGIST_WAITING("ui/psychologist_waiting"),
     /** Sound. */
     INFORMATION_PLANETS("ui/planets"),
     /** Sound. */

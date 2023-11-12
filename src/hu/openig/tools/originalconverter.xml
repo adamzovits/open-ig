@@ -5,7 +5,7 @@
 	<smp src='Sound/NOI02.SMP' dst='ui/new_message_2.wav' />
 	<smp src='Sound/NOI03.SMP' dst='ui/message.wav' />
 	<smp src='Sound/NOI04.SMP' dst='ui/new_message_3.wav' />
-	<smp src='Sound/NOI08.SMP' dst='ui/phsychologist_waiting.wav' />
+	<smp src='Sound/NOI08.SMP' dst='ui/psychologist_waiting.wav' />
 	<smp src='Sound/NOI09.SMP' dst='ui/enemy_fleet_detected.wav' />
 	<smp src='Sound/NOI10.SMP' dst='ui/carrier_under_attack.wav' />
 	<smp src='Sound/NOI15.SMP' dst='ui/reinforcement_arrived_1.wav' />
@@ -151,10 +151,10 @@
 	<ani-sound src='Local/K0_22.ANI' dst='bar/kelly_022.wav'/>
 	<ani-sound src='Local/K0_32.ANI' dst='bar/kelly_032.wav'/>
 	<ani-sound src='Local/K0_41.ANI' dst='bar/kelly_041.wav'/>
-	<ani-sound src='Local/K1_01.ANI' dst='bar/phsychologist_101.wav'/>
-	<ani-sound src='Local/K1_11.ANI' dst='bar/phsychologist_111.wav'/>
-	<ani-sound src='Local/K1_12.ANI' dst='bar/phsychologist_112.wav'/>
-	<ani-sound src='Local/K1_21.ANI' dst='bar/phsychologist_121.wav'/>
+	<ani-sound src='Local/K1_01.ANI' dst='bar/psychologist_101.wav'/>
+	<ani-sound src='Local/K1_11.ANI' dst='bar/psychologist_111.wav'/>
+	<ani-sound src='Local/K1_12.ANI' dst='bar/psychologist_112.wav'/>
+	<ani-sound src='Local/K1_21.ANI' dst='bar/psychologist_121.wav'/>
 	<ani-sound src='Local/k3_01.ani' dst='bar/brian_301.wav'/>
 	<ani-sound src='Local/k3_11.ani' dst='bar/brian_311.wav'/>
 	<ani-sound src='Local/k3_12.ani' dst='bar/brian_312.wav'/>
@@ -176,10 +176,10 @@
 	<smp src='sound/K0_22.smp' dst='bar/kelly_022.wav'/>
 	<smp src='sound/K0_32.smp' dst='bar/kelly_032.wav'/>
 	<smp src='sound/K0_41.smp' dst='bar/kelly_041.wav'/>
-	<smp src='sound/K1_01.smp' dst='bar/phsychologist_101.wav'/>
-	<smp src='sound/K1_11.smp' dst='bar/phsychologist_111.wav'/>
-	<smp src='sound/K1_12.smp' dst='bar/phsychologist_112.wav'/>
-	<smp src='sound/K1_21.smp' dst='bar/phsychologist_121.wav'/>
+	<smp src='sound/K1_01.smp' dst='bar/psychologist_101.wav'/>
+	<smp src='sound/K1_11.smp' dst='bar/psychologist_111.wav'/>
+	<smp src='sound/K1_12.smp' dst='bar/psychologist_112.wav'/>
+	<smp src='sound/K1_21.smp' dst='bar/psychologist_121.wav'/>
 	<smp src='sound/k3_01.smp' dst='bar/brian_301.wav'/>
 	<smp src='sound/k3_11.smp' dst='bar/brian_311.wav'/>
 	<smp src='sound/k3_12.smp' dst='bar/brian_312.wav'/>
@@ -213,8 +213,8 @@
 
 	<ani-sound src='ATVEZETO/megnyer.ani' dst='win/win.wav' />
 
-	<ani-sound src='ATVEZETO/test.ani' dst='test/phsychologist_test.wav' />
-	<ani-sound src='ATVEZETO/test2.ani' dst='test/phsychologist_test_completed.wav' />
+	<ani-sound src='ATVEZETO/test.ani' dst='test/psychologist_test.wav' />
+	<ani-sound src='ATVEZETO/test2.ani' dst='test/psychologist_test_completed.wav' />
 
 	<ani-video src='ANIM/1_HID0.ANI' dst='bridge/messages_appear_level_1.ani.gz'/>
 	<ani-video src='ANIM/2_HID0.ANI' dst='bridge/messages_appear_level_2.ani.gz'/>

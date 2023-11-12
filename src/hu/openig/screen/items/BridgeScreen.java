@@ -650,7 +650,7 @@ public class BridgeScreen extends WalkableScreen {
                 goingToTest = false;
             }
         };
-        commons.playVideo("test/phsychologist_test", new Action0() {
+        commons.playVideo("test/psychologist_test", new Action0() {
             @Override
             public void invoke() {
                 displaySecondary(Screens.TEST);

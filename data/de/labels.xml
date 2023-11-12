@@ -312,10 +312,10 @@
   <entry key='bar.kelly.032'>Ich sah jemand aus meinem Zimmer rennen. Irgendwer spioniert mir nach.</entry>
   <entry key='bar.kelly.041'>Danke für den Tip, Kelly.</entry>
   
-  <entry key='bar.phsychologist.101'>Hallo, Doktor. Könnte ich Sie was fragen?</entry>
-  <entry key='bar.phsychologist.111'>Hatten Sie Gelegenheit, den Test auszuwerten, den ich gemacht habe?</entry>
-  <entry key='bar.phsychologist.112'>Ich habe manchmal seltsame Träume! Da taucht immer wieder ein Raum auf...</entry>
-  <entry key='bar.phsychologist.121'>Danke für Ihre Geduld. Ich muss jetzt los.</entry>
+  <entry key='bar.psychologist.101'>Hallo, Doktor. Könnte ich Sie was fragen?</entry>
+  <entry key='bar.psychologist.111'>Hatten Sie Gelegenheit, den Test auszuwerten, den ich gemacht habe?</entry>
+  <entry key='bar.psychologist.112'>Ich habe manchmal seltsame Träume! Da taucht immer wieder ein Raum auf...</entry>
+  <entry key='bar.psychologist.121'>Danke für Ihre Geduld. Ich muss jetzt los.</entry>
   
   <entry key='bar.start_talking'>Klicke um das Gespräch mit %s zu starten.</entry>
 
@@ -1974,7 +1974,7 @@
 	<entry key='newfleet.name'>Neue Flotte</entry>
 	<entry key='no_objectives'>Keine Ziele verfügbar.</entry>
 	<entry key='othersettings.animate_inventory'>Technologie animieren</entry>
-	<entry key='phsychologist'>Dr. Reinhart</entry>
+	<entry key='psychologist'>Dr. Reinhart</entry>
 	<entry key='settings'>Einstellungen</entry>
 	<entry key='settings.audio'>Audio</entry>
 	<entry key='settings.audio_video'>Audio/Video</entry>

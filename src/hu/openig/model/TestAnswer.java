@@ -11,7 +11,7 @@ package hu.openig.model;
 import java.util.Objects;
 
 /**
- * A answer for the Phsychologist's test.
+ * A answer for the Psychologist's test.
  * @author akarnokd, 2011.04.20.
  */
 public class TestAnswer {
